@@ -1,4 +1,4 @@
-\documentclass[10pt,a4paper]{article}
+\documentclass[10pt,a4paper]{report}
 \usepackage[utf8]{inputenc}
 
 % \usepackage{ngerman}  % german documents
@@ -57,13 +57,6 @@
   \end{tabular}
 }
 
-% use to start a new exercise
-\newcommand{\exercise}[1]
-{
-  \stepcounter{subsection}
-  \subsection*{Part \thesubsection: #1}
-
-}
 
 \begin{document}
 \title{\Large \lecture \\ \textbf{\normalsize \assignment}}
@@ -81,23 +74,26 @@
 %WIEBKE !!! READ THIS !!! 
 % Usefull with Latex and maths: a list of the symbols ! https://reu.dimacs.rutgers.edu/Symbols.pdf
 
-%EXERCICE 1
-\part{Yeast Genome Analysis}
+
+\chapter*{Yeast Genome Analysis}
 
 File types used
 \begin{itemize}
-	\item \textbf{FA} 
-	\item \textbf{GTF}
-	\item \textbf{VCF}
-	\item \textbf{BAM}
+	\item \textbf{FA} The files with the .fa extension store FASTA format sequences. In this project the .fa file contains the reference genome.  
+	\item \textbf{GTF} The Gene transfer format (GTF) is a file format used to hold information about gene structure. It is a tab-delimited text format based on the general feature format (GFF), but contains some additional conventions specific to gene information. A significant feature of the GTF that can be validated: given a sequence and a GTF file, one can check that the format is correct. This significantly reduces problems with the interchange of data between groups.
+	\item \textbf{VCF} The Variant Call Format stores the gene sequence variation. By using the variant call format only the variations need to be stored along with a reference genome which make the file less redundant.
+	\item \textbf{BAM} Binary Alignment Map (BAM) is the comprehensive raw data of genome sequencing; it consists of the lossless, compressed binary representation of the Sequence Alignment Map. BAM is the compressed binary representation of SAM (Sequence Alignment Map). BAM is in compressed BGZF format.
+	
 	
 \end{itemize}
 
 
-\part{}
-Part 2 pute
+\chapter*{Arabidopsis Thaliana Genome Analysis}
+Part 2 
 
 
+\chapter*{Lactobacillus Heleveticae Genome Analysis}
+Part 3 
 
 
 
