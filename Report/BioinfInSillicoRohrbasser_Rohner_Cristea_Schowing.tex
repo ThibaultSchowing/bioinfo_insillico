@@ -1,0 +1,104 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+
+% \usepackage{ngerman}  % german documents
+\usepackage{graphicx}  % import graphics einbinden
+\usepackage{listings}  % support source code listing
+\usepackage{amsmath}  % math stuff
+\usepackage{amssymb} % 
+\usepackage{a4wide} % wide pages
+\usepackage{fancyhdr} % nice headers
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{xcolor}
+\definecolor{darkpastelgreen}{rgb}{0.01, 0.75, 0.24}
+\definecolor{spirodiscoball}{rgb}{0.06, 0.75, 0.99}
+\definecolor{smalt}{rgb}{0.0, 0.2, 0.6}
+\definecolor{armygreen}{rgb}{0.29, 0.33, 0.13}
+\definecolor{awesome}{rgb}{1.0, 0.13, 0.32}
+\definecolor{bittersweet}{rgb}{1.0, 0.44, 0.37}
+\definecolor{bananayellow}{rgb}{1.0, 0.88, 0.21}
+\definecolor{blue}{rgb}{0.0, 0.0, 1.0}
+\definecolor{red}{rgb}{1.0, 0.0, 0.0}
+\definecolor{green}{rgb}{0.0, 1.0, 0.0}
+
+
+
+\lstset{basicstyle=\footnotesize,language=Python,breaklines=true,numbers=left, numberstyle=\tiny, stepnumber=5,firstnumber=0, numbersep=5pt} % set up listings
+\pagestyle{fancy}             % header
+\setlength{\parindent}{0pt}   % no indentation
+
+\usepackage[pdfpagemode=None, colorlinks=true,  % url coloring
+           linkcolor=blue, urlcolor=blue, citecolor=blue, plainpages=false, 
+           pdfpagelabels,unicode]{hyperref}
+           
+% change enums style: first level (a), (b), (c)           
+\renewcommand{\labelenumi}{(\alph{enumi})}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+
+%lecture name
+\newcommand{\lecture}{
+	Bioinformatics Practicals In Sillico
+}           
+
+%assignment iteration
+\newcommand{\assignment}{
+	Project
+}
+
+
+%set up names, matricle number, and email
+\newcommand{\authors}{
+  \begin{tabular}{rl}
+    \href{mailto:thibault.schowing@unifr.ch}{Thibault Schowing}\\
+    \href{mailto:lio_roh@students.unibe.ch}{Lionel Rohner}\\
+    \href{mailto:alain.rohrbasser.unifr.ch}{Alain Rohrbasser}\\
+    \href{mailto:rares.cristea@unifr.ch}{Rares Cristea}
+  \end{tabular}
+}
+
+% use to start a new exercise
+\newcommand{\exercise}[1]
+{
+  \stepcounter{subsection}
+  \subsection*{Part \thesubsection: #1}
+
+}
+
+\begin{document}
+\title{\Large \lecture \\ \textbf{\normalsize \assignment}}
+\author{\authors}
+
+\setlength \headheight{25pt}
+\fancyhead[R]{\begin{tabular}{r}\lecture \\ \assignment \end{tabular}}
+\fancyhead[L]{\authors}
+
+
+\setcounter{section}{3} % modify for later sheets, i.e. 2, 3, ...
+%\section{Introduction to Python and some Network Properties} % optional, note that section invocation sets the section counter + 1, so adapt the setcounter command
+\maketitle
+
+%WIEBKE !!! READ THIS !!! 
+% Usefull with Latex and maths: a list of the symbols ! https://reu.dimacs.rutgers.edu/Symbols.pdf
+
+%EXERCICE 1
+\part{Yeast Genome Analysis}
+
+File types used
+\begin{itemize}
+	\item \textbf{FA} 
+	\item \textbf{GTF}
+	\item \textbf{VCF}
+	\item \textbf{BAM}
+	
+\end{itemize}
+
+
+\part{}
+Part 2 pute
+
+
+
+
+
+\end{document}

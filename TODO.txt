@@ -1,0 +1,23 @@
+Yeast
+- Lire les articles
+- Lire exemple projet
+- Afficher Gènes (Geansearch ou IGV)
+- Chercher suppresseurs de DeltaTOM1 dans VCF (av-dernière slide)
+- Trouver SNP non référencé 
+- Trouver mutations et GO en lien (Genemania ou autre site de GO)
+
+
+ATH
+- Télécharger les fichiers (Thibault) 
+- Afficher dans genesearch
+- Devrait fonctionner avec référence web (sinon ba on l'a pas)
+- Lire 1-2 articles de Safrané pour avoir les références des gènes (envoyé sur whatsapp - Giberriline) 
+- Checker questions sur slides (4 questions LMS)
+- 
+
+
+Lactobacillus
+- 
+
+
+
