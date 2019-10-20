@@ -21,3 +21,8 @@ Lactobacillus
 
 
 
+General
+- Intro sur chaque sous-projet
+- Liste des logiciels et des fichiers
+
+
