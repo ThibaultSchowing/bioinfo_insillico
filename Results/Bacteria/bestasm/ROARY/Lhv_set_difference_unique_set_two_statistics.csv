@@ -1,0 +1,7 @@
+Gene;Non-unique Gene name;Annotation;No. isolates;No. sequences;Avg sequences per isolate;Genome Fragment;Order within Fragment;Accessory Fragment;Accessory Order with Fragment;QC;Min group size nuc;Max group size nuc;Avg group size nuc;FAM1213_1K;FAM1450_1K;FAM19191_1K;FAM22076_1K;FAM23285_1K;FAM8102_1K
+group_996;;Lhv_0190 N-acetylmuramidase;2;2;1;164;1;164;2;;1223;1223;1223;FAM1213_1K_00701;FAM1450_1K_00304;;;;
+group_1373;;Lhv_1307 Enterolysin M23 family peptidase;1;1;1;200;85;200;72;;632;632;632;FAM1213_1K_00055;;;;;
+group_1374;;Lhv_2053 Lysin (L.crispatus) pseudogene in L.helveticus;1;1;1;200;84;200;71;;1121;1121;1121;FAM1213_1K_00056;;;;;
+group_1484;;Lhv_2053 Lysin (L.crispatus) pseudogene in L.helveticus;1;1;1;189;4;189;17;;962;962;962;FAM1213_1K_00567;;;;;
+group_1755;;Lhv_2053 Lysin (L.crispatus) pseudogene in L.helveticus;1;1;1;55;2;51;2;Investigate;605;605;605;FAM1213_1K_01834;;;;;
+group_2040;;Lhv_1307 Enterolysin M23 family peptidase;1;1;1;47;1;65;1;Investigate;377;377;377;;FAM1450_1K_01125;;;;

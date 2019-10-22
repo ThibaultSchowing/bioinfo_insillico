@@ -1,0 +1,4 @@
+Gene;Non-unique Gene name;Annotation;No. isolates;No. sequences;Avg sequences per isolate;Genome Fragment;Order within Fragment;Accessory Fragment;Accessory Order with Fragment;QC;Min group size nuc;Max group size nuc;Avg group size nuc;FAM1213_1K;FAM1450_1K;FAM19191_1K;FAM22076_1K;FAM23285_1K;FAM8102_1K
+group_2348;;Lhv_2053 Lysin (L.crispatus) pseudogene in L.helveticus;3;3;1;168;126;168;59;;1121;1121;1121;;;FAM19191_1K_00069;;FAM23285_1K_00060;FAM8102_1K_00069
+group_2372;;Lhv_2053 Lysin (L.crispatus) pseudogene in L.helveticus;3;3;1;167;30;167;4;;893;893;893;;;FAM19191_1K_00397;;FAM23285_1K_00499;FAM8102_1K_00565
+group_2664;;Lhv_2053 Lysin (L.crispatus) pseudogene in L.helveticus;2;2;1;168;114;168;71;;1121;1121;1121;;;;;FAM23285_1K_00103;FAM8102_1K_00112
