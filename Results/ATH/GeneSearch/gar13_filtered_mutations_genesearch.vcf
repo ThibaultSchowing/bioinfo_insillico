@@ -1,0 +1,32 @@
+##fileformat=VCFv4.2
+##fileDate=20191023
+##source=GensearchNGS_1.6.973
+##reference=TAIR10
+##contig=<ID=1,assembly=TAIR10,species=Arabidopsis thaliana>
+##contig=<ID=2,assembly=TAIR10,species=Arabidopsis thaliana>
+##contig=<ID=3,assembly=TAIR10,species=Arabidopsis thaliana>
+##contig=<ID=4,assembly=TAIR10,species=Arabidopsis thaliana>
+##contig=<ID=5,assembly=TAIR10,species=Arabidopsis thaliana>
+##contig=<ID=Mt,assembly=TAIR10,species=Arabidopsis thaliana>
+##contig=<ID=Pt,assembly=TAIR10,species=Arabidopsis thaliana>
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency">
+##INFO=<ID=MT,Number=1,Type=String,Description="User defined variant type, PAT = Pathogenic, LPAT = Likely pathogenic, UI = Uncertain important, UV = Uncertain, LBEN = Likely benign, BEN = Benign, A = Artefact, FR = False reference, UD = Undefined">
+##INFO=<ID=AFR,Number=A,Type=Integer,Description="Allele forward reads">
+##INFO=<ID=ARR,Number=A,Type=Integer,Description="Allele reverse reads">
+##INFO=<ID=CF,Number=1,Type=Integer,Description="Coverage forward">
+##INFO=<ID=CR,Number=1,Type=Integer,Description="Coverage reverse">
+##INFO=<ID=CLNSIG,Number=.,Type=Integer,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 7 - histocompatibility, 255 - other">
+##INFO=<ID=PAF,Number=.,Type=Float,Description="Population allele frequency">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=AF,Number=A,Type=Float,Description="Allele fraction of the alternate allele with regard to reference">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=AD,Number=A,Type=Integer,Description="Depth of variant-supporting bases (reads2)">
+##FORMAT=<ID=SB,Number=4,Type=Integer,Description="Per-sample component statistics which comprise the Fisher's Exact Test to detect strand bias.">
+##FORMAT=<ID=PV,Number=1,Type=String,Description="P-value using a prior of 0.02">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	gar13
+1	5149407	ENSVATH01053070	A	C	60	.	DP=143;AF=1.000;AFR=73;ARR=70;CF=70;CR=73;ANN=C|5_prime_UTR_variant|MODIFIER|GAI|AT1G14920|transcript|AT1G14920.1|Coding	GT:DP:AD:SB:AF:PV	1/1:143:143:-3,3,73,70:1.000:0E0
+1	5149423	ENSVATH10269329	GATC	G	60	.	DP=121;AF=1.000;AFR=64;ARR=57;CF=57;CR=64;ANN=G|inframe_deletion|MODERATE|GAI|AT1G14920|transcript|AT1G14920.1|Coding	GT:DP:AD:SB:AF:PV	1/1:121:121:-7,7,64,57:1.000:0E0
+1	5149494	.	GGATGAGCTTCTAGCTGTTCTTGGTTACAAGGTTAGGTCATCCGAAATGGCT	G	60	.	DP=145;AF=1.000;AFR=81;ARR=64;CF=64;CR=81;ANN=G|inframe_deletion|MODERATE|GAI|AT1G14920|transcript|AT1G14920.1|Coding	GT:DP:AD:SB:AF:PV	1/1:145:145:-17,17,81,64:1.000:0E0
+1	5149623	.	TG	T	60	.	DP=169;AF=1.000;AFR=102;ARR=67;CF=67;CR=102;ANN=T|frameshift|HIGH|GAI|AT1G14920|transcript|AT1G14920.1|Coding	GT:DP:AD:SB:AF:PV	1/1:169:169:-35,35,102,67:1.000:0E0
+1	5151231	ENSVATH04011020	T	TA	60	.	DP=132;AF=1.000;AFR=73;ARR=59;CF=59;CR=73;ANN=TA|3_prime_UTR_variant|MODIFIER|GAI|AT1G14920|transcript|AT1G14920.1|Coding	GT:DP:AD:SB:AF:PV	1/1:132:132:-14,14,73,59:1.000:0E0

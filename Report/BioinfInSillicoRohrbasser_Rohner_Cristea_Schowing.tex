@@ -11,6 +11,7 @@
 \usepackage{float}
 \usepackage{longtable}
 \usepackage{xcolor}
+\usepackage{cite}
 
 \definecolor{darkpastelgreen}{rgb}{0.01, 0.75, 0.24}
 \definecolor{spirodiscoball}{rgb}{0.06, 0.75, 0.99}
@@ -68,15 +69,14 @@
 \fancyhead[L]{\authors}
 
 
-\setcounter{section}{3} % modify for later sheets, i.e. 2, 3, ...
-%\section{Introduction to Python and some Network Properties} % optional, note that section invocation sets the section counter + 1, so adapt the setcounter command
+
 \maketitle
 
 %WIEBKE !!! READ THIS !!! 
 % Usefull with Latex and maths: a list of the symbols ! https://reu.dimacs.rutgers.edu/Symbols.pdf
 
 
-\chapter*{Yeast Genome Analysis}
+\chapter*{Introduction}
 
 
 
@@ -89,13 +89,59 @@ File types used
 \end{itemize}
 
 
+
+\chapter*{Yeast Genome Analysis}
+
+\section*{Introduction}
+
+\paragraph{Biological introduction}The budding Yeast Saccharomyces cerevisiae is a common organism used for genetics manipulation. This organism is well conserved among the eukaryote and can be used correlate with human pathways. With a genome with 16 chromosomes (haploid, Mat a or $ \alpha $) or 32 chromosomes (diploid). 99\% of the genome is without introns, make this organism handy to manipulate. 12 million bases pair and contains between 5 800 to 6 572 genes [TODO REF]. The homology with human is estimate to 23\%, which is a good candidate for preliminary studies regarding human pathways. The short mating time and growth is also short. Thus, the identification of potential mutant is grandly enhanced. This is a single eukaryotic organism with a division cycle of 90 minutes. Through the process of budding in which smaller daughter cells pinch, or bud, off the mother cell. Due to the microscopic size ($~$5 microM, between bacteria and human cell size) and simple growth environment, yeasts are inexpensive and easy to grow in silico. Saccharomyces cerevisiae is also no-pathogen, and forms colonies on agar plates in the laboratory in a few days with no special incubators required (best grow at 30 $ \deg $). 
+
+\paragraph{\textit{tom1}} 
+
+\section*{Methods}
+
+
+
 \chapter*{Arabidopsis Thaliana Genome Analysis}
-Part 2 
+
+\section*{Introduction}
+\paragraph{Biological introduction} 
 
 
-\chapter*{Lactobacillus Heleveticae Genome Analysis}
-Part 3 
+\section*{Methods}
 
 
 
+\chapter*{Lactobacillus Heleveticus Genome Analysis}
+\section*{Introduction}
+
+%TODO table citation (LAB)(PGHs)
+The diverse bacteria involved in cheese production are essential for the texture and taste development but also, during the ripening process, the microbial changes helps to kill pathogens and reduce spoilage micro-organisms. \textit{Lactobacillus helveticus} is a thermophilic lactic acid bacterium (LAB) used in the dairy industry as a starter or an adjunct culture for cheese manufacture\cite{jebava_nine_2011}. By releasing \textbf{peptidoglycan hydrolases}(PGHs), it has the ability to digest the bacterial cell wall (gram+) inducing death of surrounding bacteria but also its autolysis. 
+
+\section*{Methods}
+
+%TODO cite SOAPdenovo, Spades and Abyss
+\paragraph{Sequencing and genome assembly}
+The six \textit{Lactobacillus helveticus} strains \textbf{FAM8102c1c1}, \textbf{FAM23285}, \textbf{FAM19191}, \textbf{FAM22076}, \textbf{FAM1450}, \textbf{FAM1213}  were sequenced by Illumina sequencing. The following tasks were performed using the cluster provided by the University of Bern.  \textit{FastQC} was used to check the quality of the reads and \textit{Trimmomatic} to filter out bad quality reads. \textit{SOAPdenovo} as well as \textit{Spades} were used to perform the genome assembly with the reads of each strains. For \textit{SOAPdenovo} the k-mer sizes were set to 95, 85, 75 and 65. For \textit{Spades} k-mere sizes were set to 21, 33, 55, 77 and 99 (default values). The four assemblies of SOAPdenovo and the assembly of Spades were compared using Abyss with a maximum number of contigs set to 1000. The best genome assemblies with the bigger N50 and a approximate genome size of 20Mbp (Genome size of \textit{Lactobacillus helveticus}) were then chosen.
+
+
+\paragraph{Genome annotation and pan-genome analysis}
+We used the \textit{PROKKA} pipeline\cite{seemann_prokka:_2014} to annotate the genome of the six best assemblies and the reference genome for \textit{Lactobacillus helveticus} \href{https://www.ncbi.nlm.nih.gov/genome/?term=NC_010080}{NC\_010080}. \textit{PROKKA} is an automated pipeline that annotates prokaryotic genomes. It locates open reading frames ans RNA regions on contigs and translates it to protein sequences, searching for protein homologues in public databases. The resulting standards \href{https://www.ensembl.org/info/website/upload/gff.html}{.gff} files containing the annotated genome for each strain are then used by \textit{Roary}\cite{page_roary:_2015} to generate a pan-genome of the six strains. The result was then visualized with \textit{Phandango}\cite{hadfield_phandango:_2018} allowing visualisation of phylogenetic tree, associated metadata and genomic information.
+
+%TODO cite paper 9 peptidoglycan
+\paragraph{Extraction of the genes for each phenotypes} Grep was applied to the files generated by \textit{Roary} to extract the nine PHG's \cite{jebava_nine_2011} labelled "Lhv\_" with \textit{PROKKA}. The set of genes found in strains expressing phenotype A was then compared to the set of gene showing phenotype B. 
+
+%TODO INSERT FIGURE
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{img/zymography}
+	\caption[The two phenotypes expressed by the six strains]{Phenotype A is expressing an active peptidoglycan hydrolase.}
+	\label{fig:zymography}
+\end{figure}
+
+\section*{Results}
+
+
+\bibliography{mybib}{}
+\bibliographystyle{ieeetr}
 \end{document}
