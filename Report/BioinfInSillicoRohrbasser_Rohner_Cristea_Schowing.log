@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  24 OCT 2019 11:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  24 OCT 2019 12:53
 entering extended mode
 **./BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
@@ -773,7 +773,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-<img/zymography.png, id=51, 541.02126pt x 368.87813pt>
+<img/zymography.png, id=55, 541.02126pt x 368.87813pt>
 File: img/zymography.png Graphic file (type png)
 
 <use img/zymography.png>
@@ -884,10 +884,10 @@ owing.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
  ) 
 Here is how much of TeX's memory you used:
- 11901 strings out of 493333
- 161232 string characters out of 3139193
- 244159 words of memory out of 3000000
- 15271 multiletter control sequences out of 15000+200000
+ 11909 strings out of 493333
+ 161454 string characters out of 3139193
+ 244346 words of memory out of 3000000
+ 15275 multiletter control sequences out of 15000+200000
  12507 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,17n,43p,1301b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -899,9 +899,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 pe1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
 Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (7 page
-s, 462225 bytes).
+s, 464678 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

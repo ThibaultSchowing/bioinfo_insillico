@@ -1,10 +1,25 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{jebava_nine_2011}
 I.~Jebava, M.~Plockova, S.~Lortal, and F.~Valence, ``The nine peptidoglycan
   hydrolases genes in {Lactobacillus} helveticus are ubiquitous and early
   transcribed,'' {\em International Journal of Food Microbiology}, vol.~148,
   pp.~1--7, July 2011.
+
+\bibitem{noauthor_babraham_nodate}
+``Babraham {Bioinformatics} - {FastQC} {A} {Quality} {Control} tool for {High}
+  {Throughput} {Sequence} {Data}.''
+
+\bibitem{bolger_trimmomatic:_2014}
+A.~M. Bolger, M.~Lohse, and B.~Usadel, ``Trimmomatic: a flexible trimmer for
+  {Illumina} sequence data,'' {\em Bioinformatics}, vol.~30, pp.~2114--2120,
+  Aug. 2014.
+
+\bibitem{noauthor_soapdenovo:_nodate}
+``{SOAPdenovo}: short-read assembly.''
+
+\bibitem{noauthor_spades_nodate}
+``{SPAdes} 3.0.0 {Manual}.''
 
 \bibitem{seemann_prokka:_2014}
 T.~Seemann, ``Prokka: rapid prokaryotic genome annotation,'' {\em
