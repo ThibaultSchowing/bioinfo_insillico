@@ -1,4 +1,4 @@
-\documentclass[10pt,a4paper]{report}
+\documentclass[10pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 
 % \usepackage{ngerman}  % german documents
@@ -12,6 +12,8 @@
 \usepackage{longtable}
 \usepackage{xcolor}
 \usepackage{cite}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
 
 \definecolor{darkpastelgreen}{rgb}{0.01, 0.75, 0.24}
 \definecolor{spirodiscoball}{rgb}{0.06, 0.75, 0.99}
@@ -28,7 +30,8 @@
 
 \lstset{basicstyle=\footnotesize,language=Python,breaklines=true,numbers=left, numberstyle=\tiny, stepnumber=5,firstnumber=0, numbersep=5pt} % set up listings
 \pagestyle{fancy}             % header
-\setlength{\parindent}{0pt}   % no indentation
+
+\setlength{\parindent}{3pt}   % no indentation
 
 \usepackage[pdfpagemode=None, colorlinks=true,  % url coloring
            linkcolor=blue, urlcolor=blue, citecolor=blue, plainpages=false, 
@@ -45,7 +48,7 @@
 
 %assignment iteration
 \newcommand{\assignment}{
-	Project
+	BC-7107
 }
 
 
@@ -59,38 +62,35 @@
   \end{tabular}
 }
 
-
-\begin{document}
-\title{\Large \lecture \\ \textbf{\normalsize \assignment}}
-\author{\authors}
-
 \setlength \headheight{25pt}
 \fancyhead[R]{\begin{tabular}{r}\lecture \\ \assignment \end{tabular}}
-\fancyhead[L]{\authors}
+\fancyhead[L]{HS-2019}
+
+\title{\Large Bioinformatics Practicals In Sillico \\ \textbf{\normalsize BC-7107}}
+\author{\authors}
 
 
+
+\begin{document}
 
 \maketitle
+\newpage
 
-%WIEBKE !!! READ THIS !!! 
-% Usefull with Latex and maths: a list of the symbols ! https://reu.dimacs.rutgers.edu/Symbols.pdf
-
-
-\chapter*{Introduction}
+\part*{Introduction}
 
 
 
-File types used
-\begin{itemize}
-	\item \textbf{FA} The files with the .fa extension store FASTA format sequences. In this project the .fa file contains the reference genome.  
-	\item \textbf{GTF} The Gene transfer format (GTF) is a file format used to hold information about gene structure. It is a tab-delimited text format based on the general feature format (GFF), but contains some additional conventions specific to gene information. A significant feature of the GTF that can be validated: given a sequence and a GTF file, one can check that the format is correct. This significantly reduces problems with the interchange of data between groups.
-	\item \textbf{VCF} The Variant Call Format stores the gene sequence variation. By using the variant call format only the variations need to be stored along with a reference genome which make the file less redundant.
-	\item \textbf{BAM} Binary Alignment Map (BAM) is the comprehensive raw data of genome sequencing; it consists of the lossless, compressed binary representation of the Sequence Alignment Map. BAM is the compressed binary representation of SAM (Sequence Alignment Map). BAM is in compressed BGZF format.
-\end{itemize}
+%File types used
+%\begin{itemize}
+%	\item \textbf{FA} The files with the .fa extension store FASTA format sequences. In this project the .fa file contains the reference genome.  
+%	\item \textbf{GTF} The Gene transfer format (GTF) is a file format used to hold information about gene structure. It is a tab-delimited text format based on the general feature format (GFF), but contains some additional conventions specific to gene information. A significant feature of the GTF that can be validated: given a sequence and a GTF file, one can check that the format is correct. This significantly reduces problems with the interchange of data between groups.
+%	\item \textbf{VCF} The Variant Call Format stores the gene sequence variation. By using the variant call format only the variations need to be stored along with a reference genome which make the file less redundant.
+%	\item \textbf{BAM} Binary Alignment Map (BAM) is the comprehensive raw data of genome sequencing; it consists of the lossless, compressed binary representation of the Sequence Alignment Map. BAM is the compressed binary representation of SAM (Sequence Alignment Map). BAM is in compressed BGZF format.
+%\end{itemize}
 
 
-
-\chapter*{Yeast Genome Analysis}
+\newpage
+\part*{Yeast Genome Analysis}
 
 \section*{Introduction}
 
@@ -101,8 +101,8 @@ File types used
 \section*{Methods}
 
 
-
-\chapter*{Arabidopsis Thaliana Genome Analysis}
+\newpage
+\part*{Arabidopsis Thaliana Genome Analysis}
 
 \section*{Introduction}
 \paragraph{Biological introduction} 
@@ -111,12 +111,21 @@ File types used
 \section*{Methods}
 
 
-
-\chapter*{Lactobacillus Heleveticus Genome Analysis}
+\newpage
+\part*{Lactobacillus Heleveticus Genome Analysis}
 \section*{Introduction}
 
 %TODO table citation (LAB)(PGHs)
-The diverse bacteria involved in cheese production are essential for the texture and taste development but also, during the ripening process, the microbial changes helps to kill pathogens and reduce spoilage micro-organisms. \textit{Lactobacillus helveticus} is a thermophilic lactic acid bacterium (LAB) used in the dairy industry as a starter or an adjunct culture for cheese manufacture\cite{jebava_nine_2011}. By releasing \textbf{peptidoglycan hydrolases}(PGHs), it has the ability to digest the bacterial cell wall (gram+) inducing death of surrounding bacteria but also its autolysis. 
+The diverse bacteria involved in cheese production are essential for the texture and taste development but also, during the ripening process, the microbial changes helps to kill pathogens and reduce spoilage micro-organisms. \textit{Lactobacillus helveticus} is a thermophilic lactic acid bacterium (LAB) used in the dairy industry as a starter or an adjunct culture for cheese manufacture\cite{jebava_nine_2011}. By releasing \textbf{peptidoglycan hydrolases}(PGHs), it has the ability to digest the bacterial cell wall (gram+) inducing death of surrounding bacteria but also its autolysis. \\
+
+The genomic plasticity of \textit{Lactobacillus helveticus} leads to a high variation in PGHs activity from one strain to another. In a previous study, the activity of a PGH with an estimated size of 30kDa was tested by zymography in nine strains of \textit{Lactobacillus helveticus} of which six were sequenced (see figure \ref{fig:zymography}). Two phenotypes were shown: phenotype A exhibits PGH activity (strains \textbf{FAM8102c1c1}, \textbf{FAM23285} and \textbf{FAM19191}) and phenotype B does not (strains \textbf{FAM22016}, \textbf{FAM1450} and \textbf{FAM1213}).\\
+
+The aim of this work was to detect potential genomic differences involved in the two different phenotypes by sequencing, assembling and compare the genome of the six strains using a previously annotated reference genome of \textit{Lactobacillus helveticus} (\href{https://www.ncbi.nlm.nih.gov/genome/?term=NC_010080}{NC\_010080}). A potential candidate present only in the strains expressing a PGHs activity suggests that it might have been acquired by a viral insertion. 
+
+  
+%TODOOOOOOOOOOOOOOO
+
+% BLASTP the protein sequence to see it comes from a phage !
 
 \section*{Methods}
 
@@ -128,20 +137,49 @@ The six \textit{Lactobacillus helveticus} strains \textbf{FAM8102c1c1}, \textbf{
 \paragraph{Genome annotation and pan-genome analysis}
 We used the \textit{PROKKA} pipeline\cite{seemann_prokka:_2014} to annotate the genome of the six best assemblies and the reference genome for \textit{Lactobacillus helveticus} \href{https://www.ncbi.nlm.nih.gov/genome/?term=NC_010080}{NC\_010080}. \textit{PROKKA} is an automated pipeline that annotates prokaryotic genomes. It locates open reading frames ans RNA regions on contigs and translates it to protein sequences, searching for protein homologues in public databases. The resulting standards \href{https://www.ensembl.org/info/website/upload/gff.html}{.gff} files containing the annotated genome for each strain are then used by \textit{Roary}\cite{page_roary:_2015} to generate a pan-genome of the six strains. The result was then visualized with \textit{Phandango}\cite{hadfield_phandango:_2018} allowing visualisation of phylogenetic tree, associated metadata and genomic information.
 
-%TODO cite paper 9 peptidoglycan
-\paragraph{Extraction of the genes for each phenotypes} Grep was applied to the files generated by \textit{Roary} to extract the nine PHG's \cite{jebava_nine_2011} labelled "Lhv\_" with \textit{PROKKA}. The set of genes found in strains expressing phenotype A was then compared to the set of gene showing phenotype B. 
+
+\paragraph{Extraction of the genes for each phenotypes} Grep was applied to the files generated by \textit{Roary} to extract the nine PHG's \cite{jebava_nine_2011} labelled "Lhv\_" with \textit{PROKKA}. The set of genes found in strains expressing phenotype A was then compared to the set of gene showing phenotype B. %TODOAAAAAAAAAAAAAAAAAAAAa
 
 %TODO INSERT FIGURE
 \begin{figure}
 	\centering
-	\includegraphics[width=0.7\linewidth]{img/zymography}
-	\caption[The two phenotypes expressed by the six strains]{Phenotype A is expressing an active peptidoglycan hydrolase.}
+	\includegraphics[width=0.6\linewidth]{img/zymography}
+	\caption[The two phenotypes expressed by the six strains]{Phenotype A is expressing an active peptidoglycan hydrolase and phenotype B is not.}
 	\label{fig:zymography}
 \end{figure}
 
 \section*{Results}
 
 
+\begin{table}[htbp]
+	\centering
+	\begin{tabularx}{\linewidth}{|X|X|X|X|X|X|}
+		\hline
+		\textbf{Gene} & \textbf{Annotation} & \textbf{Avg group size nuc} & \textbf{FAM19191\_ 1K} & \textbf{FAM23285\_ 1K} & \textbf{FAM8102\_ 1K}\\
+		 \hline
+		group\_1899 & Lhv\_2053 Lysin (L.crispatus) pseudogene in L.helveticus & 830 & FAM19191\_ 1K\_00615 & FAM23285\_ 1K\_00607 & FAM8102\_ 1K\_00746 \\
+		\hline
+		group\_2348 & Lhv\_2053 Lysin (L.crispatus) pseudogene in L.helveticus & 1121 & FAM19191\_ 1K\_00069 & FAM23285\_ 1K\_00060 & FAM8102\_ 1K\_00069 \\
+		\hline
+		group\_2372 & Lhv\_2053 Lysin (L.crispatus) pseudogene in L.helveticus & 893 & FAM19191\_ 1K\_00397 & FAM23285\_ 1K\_00499 & FAM8102\_ 1K\_00565 \\
+		\hline	
+	\end{tabularx}
+	\caption{Genes present only in the three strains with active PGH activity.}
+\end{table}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
 \bibliography{mybib}{}
 \bibliographystyle{ieeetr}
 \end{document}
