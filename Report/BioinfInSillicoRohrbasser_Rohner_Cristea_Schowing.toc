@@ -1,0 +1,6 @@
+\contentsline {paragraph}{Biological introduction}{4}{section*.5}
+\contentsline {paragraph}{\textit {tom1}}{4}{section*.6}
+\contentsline {paragraph}{Biological introduction}{5}{section*.10}
+\contentsline {paragraph}{Sequencing and genome assembly}{6}{section*.15}
+\contentsline {paragraph}{Genome annotation and pan-genome analysis}{6}{section*.16}
+\contentsline {paragraph}{Extraction of the genes for each phenotypes}{6}{section*.17}

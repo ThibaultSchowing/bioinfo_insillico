@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  24 OCT 2019 09:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  24 OCT 2019 11:32
 entering extended mode
 **./BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
@@ -688,22 +688,22 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.aux)
 \openout1 = `BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -733,7 +733,7 @@ G,.JBIG2,.JB2,.eps]
 )
 \c@lstlisting=\count131
 \AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring ON on input line 74.
+Package hyperref Info: Link coloring ON on input line 75.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -743,194 +743,154 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count132
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
 
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.out)
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.out)
 \@outlinefile=\write3
 \openout3 = `BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 77.
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 77.
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-<img/zymography.png, id=49, 541.02126pt x 368.87813pt>
+<img/zymography.png, id=51, 541.02126pt x 368.87813pt>
 File: img/zymography.png Graphic file (type png)
 
 <use img/zymography.png>
-Package pdftex.def Info: img/zymography.png used on input line 146.
+Package pdftex.def Info: img/zymography.png used on input line 151.
 (pdftex.def)             Requested size: 254.75433pt x 173.69356pt.
-
-Underfull \hbox (badness 1708) in paragraph at lines 166--166
+ [5]
+Underfull \hbox (badness 1708) in paragraph at lines 175--175
 []|\OT1/cmr/bx/n/10 Avg group
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/bx/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 Lhv[]2053
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 Lysin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 (L.crispatus)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 pseu-do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 gene in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 Lhv[]2053
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 Lysin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 (L.crispatus)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 pseu-do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 \OT1/cmr/m/n/10 gene in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-[]|\OT1/cmr/m/n/10 Lhv[]2053
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-\OT1/cmr/m/n/10 Lysin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-\OT1/cmr/m/n/10 (L.crispatus)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-\OT1/cmr/m/n/10 pseu-do-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-\OT1/cmr/m/n/10 gene in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-[]|\OT1/cmr/m/n/10 FAM19191[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-[]|\OT1/cmr/m/n/10 FAM23285[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-[]|\OT1/cmr/m/n/10 FAM8102[]
- []
-
-[5] [6 <./img/zymography.png>]
+[6 <./img/zymography.png>]
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
 
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
 Package rerunfilecheck Info: File `BioinfInSillicoRohrbasser_Rohner_Cristea_Sch
 owing.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
  ) 
 Here is how much of TeX's memory you used:
- 11891 strings out of 493333
- 161037 string characters out of 3139193
- 250948 words of memory out of 3000000
- 15264 multiletter control sequences out of 15000+200000
+ 11901 strings out of 493333
+ 161232 string characters out of 3139193
+ 244159 words of memory out of 3000000
+ 15271 multiletter control sequences out of 15000+200000
  12507 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,17n,43p,1301b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,17n,43p,1301b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
@@ -939,9 +899,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 pe1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
 Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (7 page
-s, 458772 bytes).
+s, 462225 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
