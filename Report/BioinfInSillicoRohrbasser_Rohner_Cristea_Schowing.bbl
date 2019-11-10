@@ -1,25 +1,40 @@
 \begin{thebibliography}{10}
 
-\bibitem{jebava_nine_2011}
-I.~Jebava, M.~Plockova, S.~Lortal, and F.~Valence, ``The nine peptidoglycan
-  hydrolases genes in {Lactobacillus} helveticus are ubiquitous and early
-  transcribed,'' {\em International Journal of Food Microbiology}, vol.~148,
-  pp.~1--7, July 2011.
+\bibitem{abnizova_computational_2017}
+I.~Abnizova, R.~t. Boekhorst, and Y.~L. Orlov, ``Computational {Errors} and
+  {Biases} in {Short} {Read} {Next} {Generation} {Sequencing},'' {\em Journal
+  of Proteomics \& Bioinformatics}, vol.~10, no.~1, 2017.
 
-\bibitem{noauthor_babraham_nodate}
-``Babraham {Bioinformatics} - {FastQC} {A} {Quality} {Control} tool for {High}
-  {Throughput} {Sequence} {Data}.''
+\bibitem{andrews2012}
+S.~Andrews, F.~Krueger, A.~{Segonds-Pichon}, L.~Biggins, C.~Krueger, and
+  S.~Wingett, ``{{FastQC}}.'' Babraham Institute, Jan. 2012.
 
 \bibitem{bolger_trimmomatic:_2014}
 A.~M. Bolger, M.~Lohse, and B.~Usadel, ``Trimmomatic: a flexible trimmer for
   {Illumina} sequence data,'' {\em Bioinformatics}, vol.~30, pp.~2114--2120,
   Aug. 2014.
 
-\bibitem{noauthor_soapdenovo:_nodate}
-``{SOAPdenovo}: short-read assembly.''
+\bibitem{li_fast_2010}
+H.~Li and R.~Durbin, ``Fast and accurate long-read alignment with
+  {Burrows}–{Wheeler} transform,'' {\em Bioinformatics}, vol.~26,
+  pp.~589--595, Mar. 2010.
 
-\bibitem{noauthor_spades_nodate}
-``{SPAdes} 3.0.0 {Manual}.''
+\bibitem{li_sequence_2009}
+H.~Li, B.~Handsaker, A.~Wysoker, T.~Fennell, J.~Ruan, N.~Homer, G.~Marth,
+  G.~Abecasis, R.~Durbin, and {1000 Genome Project Data Processing Subgroup},
+  ``The {Sequence} {Alignment}/{Map} format and {SAMtools},'' {\em
+  Bioinformatics}, vol.~25, pp.~2078--2079, Aug. 2009.
+
+\bibitem{li_tabix:_2011}
+H.~Li, ``Tabix: fast retrieval of sequence features from generic
+  {TAB}-delimited files,'' {\em Bioinformatics}, vol.~27, pp.~718--719, Mar.
+  2011.
+
+\bibitem{jebava_nine_2011}
+I.~Jebava, M.~Plockova, S.~Lortal, and F.~Valence, ``The nine peptidoglycan
+  hydrolases genes in {Lactobacillus} helveticus are ubiquitous and early
+  transcribed,'' {\em International Journal of Food Microbiology}, vol.~148,
+  pp.~1--7, July 2011.
 
 \bibitem{seemann_prokka:_2014}
 T.~Seemann, ``Prokka: rapid prokaryotic genome annotation,'' {\em
