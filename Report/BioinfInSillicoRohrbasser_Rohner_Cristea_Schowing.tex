@@ -16,6 +16,7 @@
 \usepackage{tabularx}
 \usepackage{booktabs}
 \usepackage{lscape}
+\usepackage{gensymb}
 
 
 \definecolor{darkpastelgreen}{rgb}{0.01, 0.75, 0.24}
@@ -102,10 +103,24 @@ In this report we focus on the bioinformatics tools for mutant analysis through 
 
 \section*{Introduction}
 
-\paragraph{Biological introduction}The budding Yeast Saccharomyces cerevisiae is a common organism used for genetics manipulation. This organism is well conserved among the eukaryote and can be used correlate with human pathways. With a genome with 16 chromosomes (haploid, Mat a or $ \alpha $) or 32 chromosomes (diploid). 99\% of the genome is without introns, make this organism handy to manipulate. 12 million bases pair and contains between 5 800 to 6 572 genes %TODO ref. 
-The homology with human is estimate to 23\%, which is a good candidate for preliminary studies regarding human pathways. The short mating time and growth is also short. Thus, the identification of potential mutant is grandly enhanced. This is a single eukaryotic organism with a division cycle of 90 minutes. Through the process of budding in which smaller daughter cells pinch, or bud, off the mother cell. Due to the microscopic size ($~$5 microM, between bacteria and human cell size) and simple growth environment, yeasts are inexpensive and easy to grow in silico. Saccharomyces cerevisiae is also no-pathogen, and forms colonies on agar plates in the laboratory in a few days with no special incubators required (best grow at 30 $ \deg $). 
+%\paragraph{Biological introduction}The budding Yeast Saccharomyces cerevisiae is a common organism used for genetics manipulation. This organism is well conserved among the eukaryote and can be used correlate with human pathways. With a genome with 16 chromosomes (haploid, Mat a or $ \alpha $) or 32 chromosomes (diploid). 99\% of the genome is without introns, make this organism handy to manipulate. 12 million bases pair and contains between 5 800 to 6 572 genes %TODO ref. 
 
-\paragraph{\textit{tom1}} 
+%The homology with human is estimate to 23\%, which is a good candidate for preliminary studies regarding human pathways. The short mating time and growth is also short. Thus, the identification of potential mutant is grandly enhanced. This is a single eukaryotic organism with a division cycle of 90 minutes. Through the process of budding in which smaller daughter cells pinch, or bud, off the mother cell. Due to the microscopic size ($~$5 microM, between bacteria and human cell size) and simple growth environment, yeasts are inexpensive and easy to grow in silico. Saccharomyces cerevisiae is also no-pathogen, and forms colonies on agar plates in the laboratory in a few days with no special incubators required (best grow at 30 $ \deg $). 
+
+The budding yeast Saccharomyces cerevisiae (S.cerevisiae) is a single-celled lower eukaryote belonging to the kingdom of fungi. Ever since its discovery, S.cerevisae has nourished human advancements in the field of fermented food products, alcoholic beverages (e.g. beer, which is the epony of S.cerevisae) and the production of biofuel.1 In addition to the contribution industrial fermentation, S.cerevisiae has become one of the most popular model organism for eukaryotic biology, due to its simple cellular architecture, cheap maintenance cost, fast growth, non-pathogenic nature (discussed in \cite{perez-torrado_opportunistic_2016}) , and homologies to human cells (e.g. ribosomes), which cannot be studied in prokaryotic model organism, such as E.coli \cite{botstein_yeast_2011}. In particular, the genetic analysis of S.cerevisiae has gained popularity in the scientific community since it was the first eukaryotic organism whose genome was fully sequenced. The haploid genome of S.cerevisiae consists of 16 linear chromosomes containing 6604 genes encoded within approximately 12 megabase-pairs (Mbp)\cite{belda_saccharomyces_2019}. The fact that genome of S.cerevisiae is quite small and almost completely void of intronic DNA, thus making it an ideal microorganism for the identification of mutations and single nucleotide polymorphisms.\\
+
+Mating of two haploid yeast of opposite mating type (i.e. Mat a or $\alpha $) gives rise to diploid cells that possess 32 chromosomes. This is a single eukaryotic organism with a division cycle of 90 minutes. Through the process of budding in which smaller daughter cells pinch, or bud, off the mother cell. S.cerevisiae forms colonies on agar plates in the laboratory in a few days with no special incubators required (best grows at 30\degree C).\\
+
+
+%todo tom 1
+\textbf{TODO INTRO SERIEUSE SUR TOM1}
+
+\paragraph{\textit{tom1}} The deletion of Tom1 has been associated with aggregation of ribosomal proteins, which results in a temperature-sensitive phenotype of S.cerevisiae that renders them incapable of growing at temperature exceeding 20\degree C. \\
+
+The aim of this study is to screen several $ \Delta $tom1 \textit{S.cerevisiae} strains for mutations in genes associated to tom1 (positive and negative regulators) and genes coding for riboproteins. \\
+
+In this project, we present a number of potential candidates that might help deciphering the temperature-sensitive phenotype of $ \Delta $tom1 \textit{S.cerevisiae}.
+
 
 \section*{Methods}
 
@@ -124,10 +139,11 @@ This has been done using only \textit{samtools mpileup}, that took our reference
 
 In order to annotate the variants given by the vcf files, we had to use \textit{SNPeff} tool on the vcf files that were merged together with all their indexes, and we also kept only the variants that were found in less than all 4 strains that we had to analyse, since we had to filter through all the variants that were different from the reference. The variants interesting to us, are indeed the ones that are specific to one of the mutants, and that’s why we had to filter this way.\\
 
-The results were then visualized by either reading the vcf files in xcel or in IGV.
+The results were then visualized by either reading the vcf files in xcel or in IGV.\\
 
 
-
+%todo 
+\textbf{TODO Gene TOM ou autre polymorphisme trouvé à décrire dans le fichier vcf.}
 
 
 
