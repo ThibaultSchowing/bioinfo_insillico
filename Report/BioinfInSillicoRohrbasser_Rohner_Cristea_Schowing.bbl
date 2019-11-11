@@ -75,4 +75,9 @@ A.~C. Martín, R.~López, and P.~García, ``Pneumococcal {Bacteriophage} {Cp}-1
   {Encodes} {Its} {Own} {Protease} {Essential} for {Phage} {Maturation},'' {\em
   Journal of Virology}, vol.~72, pp.~3491--3494, Apr. 1998.
 
+\bibitem{arndt_phaster:_2016}
+D.~Arndt, J.~R. Grant, A.~Marcu, T.~Sajed, A.~Pon, Y.~Liang, and D.~S. Wishart,
+  ``{PHASTER}: a better, faster version of the {PHAST} phage search tool,''
+  {\em Nucleic Acids Research}, vol.~44, pp.~W16--W21, July 2016.
+
 \end{thebibliography}
