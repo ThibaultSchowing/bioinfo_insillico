@@ -18,6 +18,9 @@
 \usepackage{lscape}
 \usepackage{gensymb}
 
+\usepackage[pdfpagemode=None, colorlinks=true,  % url coloring
+linkcolor=blue, urlcolor=blue, citecolor=blue, plainpages=false, 
+pdfpagelabels,unicode]{hyperref}
 
 \definecolor{darkpastelgreen}{rgb}{0.01, 0.75, 0.24}
 \definecolor{spirodiscoball}{rgb}{0.06, 0.75, 0.99}
@@ -32,18 +35,37 @@
 
 
 
-\lstset{basicstyle=\footnotesize,language=Python,breaklines=true,numbers=left, numberstyle=\tiny, stepnumber=5,firstnumber=0, numbersep=5pt} % set up listings
+
+
+\title{\Huge Bioinformatics Practicals In Sillico \\ \textbf{\normalsize BC-7107}}
+
+%\raggedright
+%\includegraphics[width = 40mm]{img/unibe.png}\\[8ex]
+
+
+%set up names, matricle number, and email
+\author{
+	\noindent
+	\begin{tabular}[t]{@{}l}
+		\href{mailto:thibault.schowing@unifr.ch}{Thibault Schowing}\\
+		\href{mailto:lio_roh@students.unibe.ch}{Lionel Rohner}\\
+		\href{mailto:alain.rohrbasser.unifr.ch}{Alain Rohrbasser}\\
+		\href{mailto:rares.cristea@unifr.ch}{Rares Cristea}
+	\end{tabular}
+		}
+
+%\hfill
+%\raisebox{\dimexpr.8\baselineskip-\height}{\includegraphics[width=32mm]{example-image}}
+
+
+\begin{document}
+
+\clearpage\maketitle
+\thispagestyle{empty}
+\newpage
+
 \pagestyle{fancy}             % header
-
-\setlength{\parindent}{3pt}   % no indentation
-
-\usepackage[pdfpagemode=None, colorlinks=true,  % url coloring
-           linkcolor=blue, urlcolor=blue, citecolor=blue, plainpages=false, 
-           pdfpagelabels,unicode]{hyperref}
-           
-% change enums style: first level (a), (b), (c)           
-\renewcommand{\labelenumi}{(\alph{enumi})}
-\renewcommand{\labelenumii}{(\arabic{enumii})}
+\setcounter{page}{1}
 
 %lecture name
 \newcommand{\lecture}{
@@ -56,29 +78,9 @@
 }
 
 
-%set up names, matricle number, and email
-\newcommand{\authors}{
-  \begin{tabular}{rl}
-    \href{mailto:thibault.schowing@unifr.ch}{Thibault Schowing}\\
-    \href{mailto:lio_roh@students.unibe.ch}{Lionel Rohner}\\
-    \href{mailto:alain.rohrbasser.unifr.ch}{Alain Rohrbasser}\\
-    \href{mailto:rares.cristea@unifr.ch}{Rares Cristea}
-  \end{tabular}
-}
-
 \setlength \headheight{25pt}
 \fancyhead[R]{\begin{tabular}{r}\lecture \\ \assignment \end{tabular}}
 \fancyhead[L]{HS-2019}
-
-\title{\Large Bioinformatics Practicals In Sillico \\ \textbf{\normalsize BC-7107}}
-\author{\authors}
-
-
-
-\begin{document}
-
-\maketitle
-\newpage
 
 \part*{Introduction}
 
@@ -267,6 +269,8 @@ According to figure \ref{fig:zymography}, the PGH involved is approximately 30kD
 
 
 %TODO align with mauve to reference (see script)
+
+%TODO check this paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6606699/ 
 
 
 
