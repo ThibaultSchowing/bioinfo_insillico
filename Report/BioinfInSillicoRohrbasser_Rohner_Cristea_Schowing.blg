@@ -1,5 +1,11 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.aux
 The style file: ieeetr.bst
 Database file #1: mybib.bib
+Repeated entry---line 135 of file mybib.bib
+ : @article{peng_arabidopsis_1997
+ :                               ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in botstein_yeast_2011
-(There was 1 warning)
+Warning--empty journal in hooley_gibberellins:_nodate
+Warning--empty year in hooley_gibberellins:_nodate
+(There was 1 error message)

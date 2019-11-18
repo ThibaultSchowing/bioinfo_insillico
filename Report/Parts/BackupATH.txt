@@ -1,0 +1,48 @@
+\section*{Introduction}
+The plant Arabidopsis thaliana is a genetic model worldwide used in plant biology since 1995, when it has been promoted as model for molecular genetics. The genome is entirely sequenced in 200. ATH is a diploid organism of 114,5 to 125 million base pairs within 5 chromosomes (haploid). The germination to mature seed is done about 6 weeks and easy to cultivate in restricted space and produce a lot of seed. A wide range of mutants are already available and it growth from year to another through multinational research community of academic, government and industry laboratories. The importance of ATH is crucial and invaluable resources to fight the loss of crops due to plants diseases.
+
+
+%
+%
+%
+
+
+\paragraph{GAI}Gibberellic-Acid Insensitive is a gene in Arabidopsis thaliana in chromosome 1 which is involved in the regulation of plant growth.  Precisely, it mediated the input signals and module the growth by decreasing the responsiveness to gibberellin.%todo cite 1
+Gibberellin is a tetracyclic diterpenoid growth factor and influence essentially the stem elongation and other plant developmental processes.%todo cite 2
+If it’s mutated (gai) and the plant growth better, it a gain of function gene, in contrary it Is a loss of function. The cellular gai’s component is in the nucleus and is described as a transcription region of DNA and bind it directly. The mutation in SPY (spy) is a suppressor of gai, conferring to the plant a normal phenotype. GA-deficient Arabidopsis mutants display characteristic phenotypes, including dark green leaves and a dwarf growth habit attributable to reduced stem elongation1. The gai mutation affects GA reception or subsequent signal transduction and does not result in GA deficiency.%todo cite2
+
+
+
+Gai encodes a mutant protein that lacks a region of 17 amino acids from close to the N terminus and confers a dominant dwarf, reduced GA-response phenotype.%todo cite 3 
+The gai allele contains a deletion of 51-bp from within the GAI ORF. This in-frame deletion results in the absence of a 17-amino-acid residue segment situated close to the amino terminus of the predicted protein sequence.%todo cite 3 
+
+\paragraph{Intro GAI dublicate} The GAI gene regulates the sensitivity of the plant to gibberellin, apical growth hormone of the plants, tetracyclic diterpenoid growth factors that are essential regulators of stem elongation and other plant developmental processes.
+%todo cite x
+ The main mutation involved a deletion of a 17 amino acid segment at the terminal region of this DNA-binding transcription factor activity and causes a dwarf phenotype. The GAI protein as normally a length of 533 AA and is normally located in the nucleus. The deleted segment is shown in yellow. Transcriptional regulator that acts as a repressor of the gibberellin (GA) signalling pathway. Transcription coactivator of the zinc finger transcription factors GAF1/IDD2 and ENY/IDD1 in regulation of gibberellin homeostasis and signalling. No effect of the BOI proteins on its stability. Probably acts by participating in large multiprotein complexes that repress transcription of GA-inducible genes. Positively regulates XERICO expression. In contrast to RGA, it is less sensitive to GA. Its activity is probably regulated by other phytohormones such as auxin and ethylene.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\linewidth]{img/dellamutation}
+	\caption{The DELLA protein GAI comes from the GRAS family protein 3 and located on the chromosome 1, locus:2006747 AT1G14920. Call DELLA because of the 5 AA deleted.}
+	\label{fig:dellamutation}
+\end{figure}
+
+
+
+
+
+\paragraph{SPY}
+For spy, three independent recessive mutations at the SPINDLY (SPY) locus of Arabidopsis confer resistance to the gibberellin (GA) biosynthesis inhibitor paclobutrazol.
+%todo cite 4 
+ 
+Paclobutrazol or $ \alpha $-tert-Butyl-$ \beta $-(4-chlorobenzyl)-1H-1,2,4-triazole-1-ethanol, is a plant growth retardant. It is an antagonist of the plant hormone gibberellin. It works by inhibiting gibberellin biosynthesis by inhibiting endoplasmic reticulum monooxygenases. Relative to wild type, spy mutants exhibit longer hypocotyls, leaves that are a lighter green colour, increased stem elongation, early flowering, parthenocarpy, and partial male sterility. All of these phenotypes are also observed when wild-type Arabidopsis plants are repeatedly treated with gibberellin A3 (GA3). The spy-1 allele is partially epistatic to the ga1-2 mutation, which causes GA deficiency. In addition, the spy-1 mutation can simultaneously suppress the effects of the ga1-2 mutation and paclobutrazol treatment, which inhibit different steps in the GA biosynthesis pathway. This observation suggests that spy-1 activates a basal level of GA signal transduction that is independent of GA.
+%todo cite 4
+
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\linewidth]{img/GASPYpathway}
+	\caption[GAI and SPY pathways]{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3243332/figure/i1543-8120-64-1-1-f21/}
+	\label{fig:gaspypathway}
+\end{figure}
