@@ -95,6 +95,80 @@ H.~Li, ``Tabix: fast retrieval of sequence features from generic
   {TAB}-delimited files,'' {\em Bioinformatics}, vol.~27, pp.~718--719, Mar.
   2011.
 
+\bibitem{strahl_pmti_1993}
+S.~Strahl, ``{PMTI}, the gene for a key enzyme of protein 0-glycosylation in
+  {Saccharomyces} cerevisiae,'' p.~5, 1993.
+
+\bibitem{goder_protein_2011}
+V.~Goder and A.~Melero, ``Protein {O}-mannosyltransferases participate in {ER}
+  protein quality control,'' {\em Journal of Cell Science}, vol.~124,
+  pp.~144--153, Jan. 2011.
+
+\bibitem{costanzo_global_2016}
+M.~Costanzo, B.~VanderSluis, E.~N. Koch, A.~Baryshnikova, C.~Pons, G.~Tan,
+  W.~Wang, M.~Usaj, J.~Hanchard, S.~D. Lee, V.~Pelechano, E.~B. Styles,
+  M.~Billmann, J.~van Leeuwen, N.~van Dyk, Z.-Y. Lin, E.~Kuzmin, J.~Nelson,
+  J.~S. Piotrowski, T.~Srikumar, S.~Bahr, Y.~Chen, R.~Deshpande, C.~F. Kurat,
+  S.~C. Li, Z.~Li, M.~M. Usaj, H.~Okada, N.~Pascoe, B.-J. San~Luis,
+  S.~Sharifpoor, E.~Shuteriqi, S.~W. Simpkins, J.~Snider, H.~G. Suresh, Y.~Tan,
+  H.~Zhu, N.~Malod-Dognin, V.~Janjic, N.~Przulj, O.~G. Troyanskaya,
+  I.~Stagljar, T.~Xia, Y.~Ohya, A.-C. Gingras, B.~Raught, M.~Boutros, L.~M.
+  Steinmetz, C.~L. Moore, A.~P. Rosebrock, A.~A. Caudy, C.~L. Myers,
+  B.~Andrews, and C.~Boone, ``A global genetic interaction network maps a
+  wiring diagram of cellular function,'' {\em Science}, vol.~353,
+  pp.~aaf1420--aaf1420, Sept. 2016.
+
+\bibitem{dembowski_has1_2013}
+J.~A. Dembowski, B.~Kuo, and J.~L. Woolford, ``Has1 regulates consecutive
+  maturation and processing steps for assembly of 60s ribosomal subunits,''
+  {\em Nucleic Acids Research}, vol.~41, pp.~7889--7904, Sept. 2013.
+
+\bibitem{kurita_kre6_2011}
+T.~Kurita, Y.~Noda, T.~Takagi, M.~Osumi, and K.~Yoda, ``Kre6 {Protein}
+  {Essential} for {Yeast} {Cell} {Wall} \textbeta-1,6-{Glucan} {Synthesis}
+  {Accumulates} at {Sites} of {Polarized} {Growth},'' {\em Journal of
+  Biological Chemistry}, vol.~286, pp.~7429--7438, Mar. 2011.
+
+\bibitem{roemer_skn1_1993}
+T.~Roemer, S.~Delaney, and H.~Bussey, ``{SKN}1 and {KRE}6 define a pair of
+  functional homologs encoding putative membrane proteins involved in
+  beta-glucan synthesis.,'' {\em Molecular and Cellular Biology}, vol.~13,
+  no.~7, pp.~4039--4048, 1993.
+
+\bibitem{sasaki_extragenic_2000}
+T.~Sasaki, A.~Toh-e, and Y.~Kikuchi, ``Extragenic suppressors that rescue
+  defects in the heat stress response of the budding yeast mutant tom1,'' {\em
+  MGG - Molecular and General Genetics}, vol.~262, pp.~940--948, Jan. 2000.
+
+\bibitem{brown_yeast_1993}
+J.~L. Brown and H.~Bussey, ``The {Yeast} {KRE}9 {Gene} {Encodes} an 0
+  {Glycoprotein} {Involved} in {Cell} {Surface} ,-{Glucan} {Assembly},'' {\em
+  MOL. CELL. BIOL.}, vol.~13, p.~11, 1993.
+
+\bibitem{hoppins_mitochondrial-focused_2011}
+S.~Hoppins, S.~R. Collins, A.~Cassidy-Stone, E.~Hummel, R.~M. DeVay, L.~L.
+  Lackner, B.~Westermann, M.~Schuldiner, J.~S. Weissman, and J.~Nunnari, ``A
+  mitochondrial-focused genetic interaction map reveals a scaffold-like complex
+  required for inner membrane organization in mitochondria,'' {\em The Journal
+  of Cell Biology}, vol.~195, pp.~323--340, Oct. 2011.
+
+\bibitem{fernandez-pevida_yeast_2012}
+A.~Fernández-Pevida, O.~Rodríguez-Galán, A.~Díaz-Quintana, D.~Kressler, and
+  J.~de~la Cruz, ``Yeast {Ribosomal} {Protein} {L}40 {Assembles} {Late} into
+  {Precursor} 60 {S} {Ribosomes} and {Is} {Required} for {Their} {Cytoplasmic}
+  {Maturation},'' {\em Journal of Biological Chemistry}, vol.~287,
+  pp.~38390--38407, Nov. 2012.
+
+\bibitem{muller_role_2003}
+O.~Muller, ``Role of the {Vtc} proteins in {V}-{ATPase} stability and membrane
+  trafficking,'' {\em Journal of Cell Science}, vol.~116, pp.~1107--1115, Mar.
+  2003.
+
+\bibitem{takeuchi_saccharomyces_2008}
+M.~Takeuchi, Y.~Kimata, and K.~Kohno, ``Saccharomyces cerevisiae {Rot}1 {Is} an
+  {Essential} {Molecular} {Chaperone} in the {Endoplasmic} {Reticulum},'' {\em
+  Molecular Biology of the Cell}, vol.~19, pp.~3514--3525, Aug. 2008.
+
 \bibitem{peng_arabidopsis_1997}
 J.~Peng, P.~Carol, D.~E. Richards, K.~E. King, R.~J. Cowling, G.~P. Murphy, and
   N.~P. Harberd, ``The {Arabidopsis} {GAI} gene defines a signaling pathway
