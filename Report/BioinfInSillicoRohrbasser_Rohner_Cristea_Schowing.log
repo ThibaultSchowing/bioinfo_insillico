@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  24 NOV 2019 14:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  26 NOV 2019 18:44
 entering extended mode
 **./BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
@@ -1324,473 +1324,478 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--284
+
+ []
+
 <img/dellamutation.png, id=172, 151.4385pt x 165.564pt>
 File: img/dellamutation.png Graphic file (type png)
 
 <use img/dellamutation.png>
-Package pdftex.def Info: img/dellamutation.png used on input line 284.
+Package pdftex.def Info: img/dellamutation.png used on input line 295.
 (pdftex.def)             Requested size: 169.8319pt x 185.67291pt.
- [8]
-<img/GASPYpathway.jpg, id=184, 286.06876pt x 316.68312pt>
+ [8 <./img/dellamutation.png>]
+<img/GASPYpathway.jpg, id=185, 286.06876pt x 316.68312pt>
 File: img/GASPYpathway.jpg Graphic file (type jpg)
 
 <use img/GASPYpathway.jpg>
-Package pdftex.def Info: img/GASPYpathway.jpg used on input line 303.
+Package pdftex.def Info: img/GASPYpathway.jpg used on input line 314.
 (pdftex.def)             Requested size: 169.8319pt x 188.00597pt.
 
-Underfull \hbox (badness 1436) in paragraph at lines 304--304
+Underfull \hbox (badness 1436) in paragraph at lines 315--315
 []\OT1/cmr/m/n/10 Figure 4: []https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3243
 332/figure/i1543-8120-64-1-1-
  []
 
-[9 <./img/dellamutation.png> <./img/GASPYpathway.jpg>] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[9 <./img/GASPYpathway.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 
  []
 
-[11] <img/zymography.png, id=233, 541.02126pt x 368.87813pt>
+[10] <img/zymography.png, id=229, 541.02126pt x 368.87813pt>
 File: img/zymography.png Graphic file (type png)
 
 <use img/zymography.png>
-Package pdftex.def Info: img/zymography.png used on input line 361.
+Package pdftex.def Info: img/zymography.png used on input line 372.
 (pdftex.def)             Requested size: 254.75433pt x 173.69356pt.
- [12 <./img/zymography.png>]
-Underfull \hbox (badness 1708) in paragraph at lines 387--387
+ [11 <./img/zymography.png>]
+Underfull \hbox (badness 1708) in paragraph at lines 398--398
 []|\OT1/cmr/bx/n/10 Avg group
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/bx/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 Lhv[]2053
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 Lysin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 (L.crispatus)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 pseu-do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 gene in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 Lhv[]2053
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 Lysin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 (L.crispatus)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 pseu-do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 \OT1/cmr/m/n/10 gene in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
-<img/AlignmentGrp2372.png, id=243, 654.94687pt x 407.02063pt>
+<img/AlignmentGrp2372.png, id=238, 654.94687pt x 407.02063pt>
 File: img/AlignmentGrp2372.png Graphic file (type png)
 
 <use img/AlignmentGrp2372.png>
-Package pdftex.def Info: img/AlignmentGrp2372.png used on input line 399.
+Package pdftex.def Info: img/AlignmentGrp2372.png used on input line 410.
 (pdftex.def)             Requested size: 254.75433pt x 158.31508pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
-[13 <./img/AlignmentGrp2372.png>]
-(BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.bbl [14] [15]) [16]
-Overfull \hbox (16.92494pt too wide) in paragraph at lines 434--434
+[12 <./img/AlignmentGrp2372.png>]
+(BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.bbl [13] [14]) [15]
+Overfull \hbox (16.92494pt too wide) in paragraph at lines 445--445
 []\OT1/cmr/bx/n/14.4 Supplementary fig-ures Ara-bidop-sis Thaliana Genome Anal-
 
  []
 
-[17]
+[16]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 440.
+               Default added (so using `tbp') on input line 451.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
-[18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 473.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 473.
+[17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 484.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 484.
  (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 473.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 473.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 484.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 484.
 Package rerunfilecheck Info: File `BioinfInSillicoRohrbasser_Rohner_Cristea_Sch
 owing.out' has not changed.
 (rerunfilecheck)             Checksum: 7109A1AFAD687E61B1ECF41459598039;1104.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 473.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 484.
  ) 
 Here is how much of TeX's memory you used:
- 13209 strings out of 493333
- 181848 string characters out of 3139193
+ 13208 strings out of 493333
+ 181841 string characters out of 3139193
  277762 words of memory out of 3000000
  16477 multiletter control sequences out of 15000+200000
  15637 words of font info for 58 fonts, out of 3000000 for 9000
@@ -1812,10 +1817,10 @@ e1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1000
 .pfb>
-Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (19 pag
-es, 1368990 bytes).
+Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (18 pag
+es, 1367984 bytes).
 PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
+ 355 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
