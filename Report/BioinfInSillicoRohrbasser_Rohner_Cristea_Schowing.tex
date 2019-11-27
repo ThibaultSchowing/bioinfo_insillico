@@ -420,7 +420,7 @@ We used the \textit{PROKKA} pipeline\cite{seemann_prokka:_2014} to annotate the 
 %todo discuss the results
 \paragraph{Discussion} We can see that PGHs are present in all strains (Supplementary table \ref{tab:resultCommonLhv}), therefore the phenotype observed in the figure \ref{fig:zymography} is not due to an absence of PGH. With ROARY we identified a PGH only present in the three strains exhibiting phenotype A with a matching molecular weight.\\
 
-\noindent Using BLASTp\cite{altschul_gapped_1997} with default parameters, the protein was searched to be a particular lysin (\href{https://www.ncbi.nlm.nih.gov/protein/1325986555}{WP\_101853908.1}) encoded by the pneumococcal bacteriophage Cp-1\cite{martin_pneumococcal_1998}. To look further into this sequence, we tried PHASTER \cite{arndt_phaster:_2016}, the PHAge Search Tool - Enhanced Release, which helps identifying and annotate prophage sequences within bacterial genomes and plasmids. The research was made only for \textbf{FAM19191}, as the sequence is identical in the three strains. The result indicating a highly conserved muramidase sequence, shown in figure \ref{fig:phasterresultmuramidase}, confirms that the PGH comes from a phage.
+\noindent Using BLASTp\cite{altschul_gapped_1997} with default parameters, the protein was searched to be a particular lysin (\href{https://www.ncbi.nlm.nih.gov/protein/1325986555}{WP\_101853908.1}) encoded by the pneumococcal bacteriophage Cp-1\cite{martin_pneumococcal_1998}. To look further into this sequence, we tried PHASTER \cite{arndt_phaster:_2016}, the PHAge Search Tool - Enhanced Release, which helps identifying and annotate prophage sequences within bacterial genomes and plasmids. The research was made only for \textbf{FAM19191}, as the sequence is identical in the three strains. The result indicating a highly conserved muramidase sequence, shown in figure \ref{fig:phasterresultmuramidase}, confirms that the PGH comes from a phage. The locus is shown in supplementary figure \ref{fig:circulargenomenode8annotated}.
 
 \begin{figure}[H]
 	\centering
@@ -478,6 +478,13 @@ We used the \textit{PROKKA} pipeline\cite{seemann_prokka:_2014} to annotate the 
 		\label{tab:resultCommonLhv}
 	\end{table}
 \end{landscape}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=1\linewidth]{img/circular_genome_node8_annotated}
+	\caption{Node 8 of \textbf{FAM19191} assembly showing annotated locus. The highlited first one represents our muramidase.}
+	\label{fig:circulargenomenode8annotated}
+\end{figure}
 
 
 \end{document}

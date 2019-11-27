@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  27 NOV 2019 00:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  27 NOV 2019 09:35
 entering extended mode
 **./BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
@@ -1471,7 +1471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 421--422
  []
 
 [11 <./img/zymography.png>]
-<img/phaster_result_muramidase.png, id=249, 928.46875pt x 215.30438pt>
+<img/phaster_result_muramidase.png, id=250, 928.46875pt x 215.30438pt>
 File: img/phaster_result_muramidase.png Graphic file (type png)
 
 <use img/phaster_result_muramidase.png>
@@ -1790,22 +1790,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 476--476
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
-[17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 483.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 483.
+[17] <img/circular_genome_node8_annotated.png, id=285, 1003.75pt x 301.125pt>
+File: img/circular_genome_node8_annotated.png Graphic file (type png)
+
+<use img/circular_genome_node8_annotated.png>
+Package pdftex.def Info: img/circular_genome_node8_annotated.png used on input 
+line 484.
+(pdftex.def)             Requested size: 424.58624pt x 127.3768pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 490.
+ [18 <./img/circular_genome_node8_annotated.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 490.
  (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 483.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 483.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 490.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 490.
 Package rerunfilecheck Info: File `BioinfInSillicoRohrbasser_Rohner_Cristea_Sch
 owing.out' has not changed.
 (rerunfilecheck)             Checksum: 7109A1AFAD687E61B1ECF41459598039;1104.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 483.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 490.
  ) 
 Here is how much of TeX's memory you used:
- 13215 strings out of 493333
- 182058 string characters out of 3139193
- 277847 words of memory out of 3000000
- 16482 multiletter control sequences out of 15000+200000
+ 13223 strings out of 493333
+ 182317 string characters out of 3139193
+ 277975 words of memory out of 3000000
+ 16487 multiletter control sequences out of 15000+200000
  15637 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,17n,43p,1522b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1825,10 +1832,10 @@ e1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1000
 .pfb>
-Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (18 pag
-es, 1408817 bytes).
+Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (19 pag
+es, 1416292 bytes).
 PDF statistics:
- 359 PDF objects out of 1000 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 368 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
