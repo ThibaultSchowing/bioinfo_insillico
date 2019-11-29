@@ -318,7 +318,7 @@ For spy, three independent recessive mutations at the SPINDLY (SPY) locus of Ara
 
 \section*{Methods} 
 
-\paragraph{Trimming, Read Group Informations, Aligning and MarkDuplicates} After the quality control check with \textit{fastqc}, \textit{Trimmomatic}\cite{bolger_trimmomatic:_2014} was used to filter out bad quality reads. Only the ones with a minimal length of 140 and an average quality of 15 were kept. The \textit{bwa} (Burrows-Wheeler Aligner) tool was then used to index the reference genome
+\paragraph{Trimming, Read Group Informations, Aligning and MarkDuplicates} After the quality control check with \textit{fastqc}\cite{andrews2012}, \textit{Trimmomatic}\cite{bolger_trimmomatic:_2014} was used to filter out bad quality reads. Only the ones with a minimal length of 140 and an average quality of 15 were kept. The \textit{bwa} (Burrows-Wheeler Aligner) tool was then used to index the reference genome
 %todo name and link to ref genome
 and to align all the reads against this reference while adding the Read Group Information at the same time. The resulting sam files were then sorted and converted into bam files through  \href{https://software.broadinstitute.org/gatk/documentation/tooldocs/4.0.8.0/picard_sam_SortSam.php}{SortSam} (\href{https://broadinstitute.github.io/picard/}{Picard}) and the duplicate reads were marked using  \href{https://software.broadinstitute.org/gatk/documentation/tooldocs/4.0.4.0/picard_sam_markduplicates_MarkDuplicates.php}{MarkDuplicates} (\href{https://broadinstitute.github.io/picard/}{Picard}). This step, takes a sorted bam file and  add information about reads that might come from the same DNA fragment, in order to avoid counting the information given by one fragment more than one time. 
 
