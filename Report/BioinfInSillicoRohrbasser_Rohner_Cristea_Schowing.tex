@@ -103,13 +103,10 @@ In this report we focus on the bioinformatics tools for mutant analysis through 
 
 The budding yeast \textit{Saccharomyces cerevisiae} (\textit{S.cerevisiae}) is a single-celled lower eukaryote belonging to the kingdom of fungi. Ever since its discovery, \textit{S.cerevisae} has nourished human advancements in the field of fermented food products, alcoholic beverages (e.g. beer, which is the epony of \textit{S.cerevisae}) and the production of biofuel. In addition to the contribution industrial fermentation, \textit{S.cerevisiae} has become one of the most popular model organism for eukaryotic biology, due to its simple cellular architecture, cheap maintenance cost, fast growth, non-pathogenic nature (discussed in \cite{perez-torrado_opportunistic_2016}) , and homologies to human cells (e.g. ribosomes), which cannot be studied in prokaryotic model organism, such as \textit{E.coli} \cite{botstein_yeast_2011}. In particular, the genetic analysis of \textit{S.cerevisiae} has gained popularity in the scientific community since it was the first eukaryotic organism whose genome was fully sequenced. The haploid genome of \textit{S.cerevisiae} consists of 16 linear chromosomes containing 6604 genes encoded within approximately 12 megabase-pairs (Mbp)\cite{belda_saccharomyces_2019}. The fact that genome of \textit{S.cerevisiae} is quite small and almost completely void of intronic DNA, thus making it an ideal microorganism for the identification of mutations and single nucleotide polymorphisms.\\
 
-\noindent Mating of two haploid yeast of opposite mating type (i.e. Mat a or $\alpha $) gives rise to diploid cells that possess 32 chromosomes. This is a single eukaryotic organism with a division cycle of 90 minutes. Through the process of budding in which smaller daughter cells pinch, or bud, off the mother cell. \textit{S.cerevisiae} forms colonies on agar plates in the laboratory in a few days with no special incubators required (best grows at 30\degree C).\\
+\noindent Mating of two haploid yeast of opposite mating type (i.e. Mat a or $\alpha $) gives rise to diploid cells that possess 32 chromosomes. This is a single eukaryotic organism with a division cycle of 90 minutes. Through the process of budding in which smaller daughter cells pinch, or bud, off the mother cell. \textit{S.cerevisiae} forms colonies on agar plates in the laboratory in a few days with no special incubators required (best grows at 30\degree C).
 
 
-%todo tom 1
-\textbf{TODO raccourcir intro}
-
-\paragraph{Target of Myb protein1 (Tom1)}, is a gene involved in the ribosomal biogenesis in yeast and human respectively. In human, this gene is involved in several pathways including endocytosis, endosomal transport, intracellular protein transport, neutrophil degranulation and protein transport\cite{seroussi_tom1genes_1999,seet_endofin_2004}. It is located on the ch.22 (component UP000005640) and ch.4 in human and yeast respectively. As it is well conserved among the eukaryote, we can study the gene with yeast for the raisons explained above. In yeast specifically, TOM1 was first described as a gene involved in temperature sensitivity and could be supressed by STM1\cite{utsugi_high_1995}. TOM1 is a hect-domain, which has been identified as a conserved feature of E3 ubiquitin ligases group. It regulates transcriptional activation through effectors ADA on coactivator proteins on the DNA. The action of TOM1 is to regulate through ubiquitination the temperature sensitivity\cite{saleh_tom1p_1998}. \\
+\paragraph{Target of Myb protein1 (Tom1)}, is a gene involved in the ribosomal biogenesis in yeast and human respectively. In human, this gene is involved in several pathways including endocytosis, endosomal transport, intracellular protein transport, neutrophil degranulation and protein transport\cite{seroussi_tom1genes_1999,seet_endofin_2004}. It is located on the ch.22 (component UP000005640) and ch.4 in human and yeast respectively. As it is well conserved among the eukaryote, we can study the gene with yeast for the reasons explained above. In yeast specifically, TOM1 was first described as a gene involved in temperature sensitivity and could be suppressed by STM1\cite{utsugi_high_1995}. TOM1 is a hect-domain, which has been identified as a conserved feature of E3 ubiquitin ligases group. It regulates transcriptional activation through effectors ADA on coactivator proteins on the DNA. The action of TOM1 is to regulate through ubiquitination the temperature sensitivity\cite{saleh_tom1p_1998}. \\
 
 \noindent A tom1-1 mutant has been isolated, and under electron microscopy and indirect immunofluorescence microscopy, it has been shown that the large nucleus contains duplicated DNA and short spindle, and structures fragmentations. This show that the disruption of the system, impacts the nuclear transport and the cell division in the G1 phase\cite{seet_endofin_2004,utsugi_yeast_1999}.\\ 
 
@@ -125,13 +122,13 @@ The budding yeast \textit{Saccharomyces cerevisiae} (\textit{S.cerevisiae}) is a
 
 \noindent To summarize, TOM1 is necessary to the ribosome’s biogenesis and the elimination of the leftover building blocks by ubiquitination. Thus, the aim of this project is to identify the suppressor of this gene by high sequencing throughput with bioinformatics tools. \\
 
-\textbf{TODO on en fait référence nule part à cette figure -> nécessaire ?}
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.4\linewidth]{img/tom1Intro}
-	\caption{\small Simplified overview of the major steps in pre-rRNA processing.}
-	\label{fig:tom1intro}
-\end{figure}
+
+%\begin{figure}[h]
+%	\centering
+%	\includegraphics[width=0.4\linewidth]{img/tom1Intro}
+%	\caption{\small Simplified overview of the major steps in pre-rRNA processing.}
+%	\label{fig:tom1intro}
+%\end{figure}
 
 
 %\paragraph{\textit{tom1}} The deletion of Tom1 has been associated with aggregation of ribosomal proteins, which results in a temperature-sensitive phenotype of S.cerevisiae that renders them incapable of growing at temperature exceeding 20\degree C. \\
@@ -160,8 +157,6 @@ This has been done using only \textit{samtools mpileup}, that took our reference
 \noindent The results were then visualized by either reading the vcf files in xcel or in IGV (\href{http://software.broadinstitute.org/software/igv/}{Integrative Genomics Viewer}).\\
 
 
-%todo 
-\textbf{TODO sources de l'image ?}
 
 \section*{Results}
 During our practical we screened the \textit{S.cerevisae} samples T5, T6, T7 and T8 for interesting mutations that could potentially be responsible for reverting the heat-sensitive phenotype of $\Delta$TOM1 \textit{S.cerevisae} strains. The sample T5 contains only one haploid strain named YDK1364 and was used as a reference (Figure \ref{fig:yeastgrowth}). All strains found in T6 to T8 arose from the strain YDK1364 found in T5, but as mutations emerged in strains S1364-1 to S1364-8, these strains became more resistant to high-temperature stress (i.e. 37\degree C). Therefore, we excluded all mutations that co-occurred in T5 and any of the samples of interest T6 to T8. Since each of the samples is composed of two pooled haploid \textit{S.cerevisae} strains (Figure \ref{fig:yeastgrowth}), we excluded all homozygous mutations from further analysis, since it is highly unlikely that two strains have the same mutation suppressing the $\Delta$TOM1 heat sensitivity phenotype.
@@ -250,10 +245,6 @@ In sample T6, we found two potential high-quality mutation candidates, namely an
 \newpage
 \part*{Arabidopsis Thaliana Genome Analysis}
 
-\textbf{TODO ALAIN: raccourcir}\\
-
-\noindent\textbf{TODO LIONEL: CHANGER IMAGE}
-
 \section*{Introduction}
 The plant Arabidopsis thaliana is a genetic model worldwide used in plant biology since 1995, when it has been promoted as model for molecular genetics. The genome is entirely sequenced in 200. ATH is a diploid organism of 114,5 to 125 million base pairs within 5 chromosomes (haploid). The germination to mature seed is done about 6 weeks and easy to cultivate in restricted space and produce a lot of seed. A wide range of mutants are already available and it growth from year to another through multinational research community of academic, government and industry laboratories. The importance of ATH is crucial and invaluable resources to fight the loss of crops due to plants diseases.
 
@@ -327,13 +318,54 @@ and to align all the reads against this reference while adding the Read Group In
 \paragraph{Annotation}
 For the annotation step, \href{http://snpeff.sourceforge.net/}{SnpEff} was used in order to annotate the vcf file, to get rid of all the synonymous and intergenic variants, since they bring no new information to our analysis, and also to keep only the variants that are found in less than 2 strains. Eventually, we got a nice annotated and filtered vcf file. The analysis was further done by using \href{http://www.phenosystems.com/www/index.php/products/gensearchngs}{GeneSearch} (PhenoSystems), and since the whole bam files were a bit too big to handle, we have used the shortened versions of the bam files, provided by the professors, containing only the information about the GAI gene on the first chromosome, and the SPY gene on the third chromosome.
 
-\section*{Results} \textbf{TODO Rares}
+\section*{Results}
+
+We screened two mutant strains of \textit{Arabidopsis Thaliana} that were generated by random $\gamma$-ray mutagenesis of CS63 for mutations in gene \textit{GAI} and \textit{SPY}. C63 contains a 51bp deletion in the DELLA-domain of \textit{GAI}. The deletion acts as a gain-of-function mutation in DELLA, thus resulting in a dwarf phenotype due to reduced GA-signalling. As opposed to C63, Gar12 and Gar13 exhibit normal growth and we hypothesized that random mutation in \textit{GAI} and/or \textit{SPY} may be causative for their phenotypic reversion.\\
+
+\noindent We found that Gar13 had the original mutation in the DELLA-domain of the \textit{GAI} gene, whereas Gar12 had a deletion at the same location, but affected 52 nucleotides instead of 51 like in the original deletion found in C63 (Table \ref{tab:resultATH}). Furthermore, we found one additional frameshift deletion in the functional GRAS-domain of strain Gar13. The only mutation in \textit{SPY} was a mutation affecting only one single amino acid that was present in both strains. 
+
+
+% Please add the following required packages to your document preamble:
+% \usepackage{graphicx}
+\begin{table}[]
+	\centering
+	\resizebox{\textwidth}{!}{%
+		\begin{tabular}{|l|l|l|l|l|}
+			\hline
+			Strains & Gene & Chromosome & Position & Mutation type \\ \hline
+			Gar12 & GAI & I & 5'149’424 & 3bp inframe deletion (ATC) \\ \hline
+			Gar12 & GAI & I & 5'149’496 & 52bp frameshift Deletion \\ \hline
+			Gar12 & SPY & III & 3'637’438 & Missense mutation: T\textgreater{}C \\ \hline
+			Gar13 & GAI & I & 5'149’424 & 3bp inframe Deletion (ATC) \\ \hline
+			Gar13 & GAI & I & 5'149’495 & 51bp inframe Deletion (DELLA) \\ \hline
+			Gar13 & GAI & I & 5'149’624 & 1bp frameshift deletion (G) \\ \hline
+			Gar13 & SPY & III & 3'637’438 & Missense mutation: T\textgreater{}C \\ \hline
+		\end{tabular}%
+	}
+\caption{Table showing all non-synonymous mutations found in \textit{Arabidopsis Thaliana} strains Gar12 and Gar13.}
+\label{tab:resultATH}
+\end{table}
 
 \paragraph{Discussion}
 
+Due to the additional nucleotide affected by the large deletion in Gar12, the deletion leads to a frameshift that affects all codons upstream of the DELLA-domain and thus substantially affects the structural integrity of DELLA. This means that although the GAI gene exhibits a gain-of-function mutation, which renders the protein resistant to proteasomal degradation, the deletion changes a substantial number of amino acids in the functional GRAS-domain. Therefore the repressive effect of DELLA is subverted and the plant is able to thrive (Figure \ref{fig:delladomains}).\\
+
+
+In the Gar13 strain, the gain-of-function deletion of 51bp of the DELLA region is present, meaning that the phenotypic reversion is not given by the presence of the DELLA domain, but rather by another mutation in the functional domain. We assume that the only mutation that could be able to abrogate the gain-of-function mutation DELLA is a single nucleotide, which induces a frameshift in the reading frame and thus probably affects the functional GRAS-domain (Table \ref{tab:resultATH} and Figure \ref{fig:delladomains}). Similar to Gar12, this strain is able to grow normally, due to inactivation of the DELLA protein (Figure \ref{fig:delladomains}).
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{img/DELLAdomains}
+	\caption{Illustrative summary of the project. The DELLA protein is shown with its main domains. Regions highlighted in red represent deletions that were found in Gar12 and/or Gar13.}
+	\label{fig:delladomains}
+\end{figure}
 
 
 
+The other 3bp deletion, which was discovered downstream of the primary deletion, is probably redundant as the 51bp deletion prevents DELLA from binding to GA-loaded GID1 regardless of other mutations. Furthermore, this variant is found in both Gar12 and Gar13, which suggests that the mutation did not arise from random mutagenesis, but was probably already present in C63.\\
+
+Since loss-of-function mutations in \textit{SPY} are known to suppress gain-of-function mutations in \textit{GAI}, we also searched for potential non-synonymous mutations in \textit{SPY}. However, in both strains, we only found one missense variant in the \textit{SPY} gene, changing a valine to alanine in the amino acid chain. This mutation is unlikely to have an impact on the function of SPY since the amino acid substitution (V to A) is a conservative replacement with a low impact on biochemical properties. Moreover, similar to the 3bp inframe deletion in \textit{GAI}, this mutation was also found in both Gar12 and Gar13 and was therefore presumably present in the original plant C63. Taken together, Gar12 and Gar13 do not exhibit the dwarf phenotype due to mutations in the functional GRAS-domain of GAI rather than loss-of-function mutations in \textit{SPY}  (Supplementary figure \ref{fig:dellainteractions}).
 
 
 
@@ -447,12 +479,20 @@ We used the \textit{PROKKA} pipeline\cite{seemann_prokka:_2014} to annotate the 
 
 \newpage
 \appendix
-\part{Appendix}
+\setcounter{figure}{0}  
+\part*{Appendix}
 \section{Supplementary figures Yeast Genome Analysis}
 
 
 \section{Supplementary figures Arabidopsis Thaliana Genome Analysis}
 
+%TODO revoir caption
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{img/ATH2}
+	\caption{Interactions of GA-Responsive Genes and DELLA.}
+	\label{fig:dellainteractions}
+\end{figure}
 
 \section{Supplementary figures Lactobacillus Helveticus Genome Assembly}
 
