@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  2 DEC 2019 19:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.22)  2 DEC 2019 20:23
 entering extended mode
 **./BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
@@ -1550,7 +1550,7 @@ Underfull \hbox (badness 7540) in paragraph at lines 88--92
 \OT1/cmr/m/n/10 G. Abeca-sis, R. Durbin, and 1000
  []
 
-[15] [16]) [17] <img/ATH2.png, id=299, 849.92531pt x 446.41782pt>
+[15] [16]) [17] <img/ATH2.png, id=298, 849.92531pt x 446.41782pt>
 File: img/ATH2.png Graphic file (type png)
 
 <use img/ATH2.png>
@@ -1866,7 +1866,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 521--521
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
-[19] <img/circular_genome_node8_annotated.png, id=311, 1003.75pt x 301.125pt>
+[19] <img/circular_genome_node8_annotated.png, id=310, 1003.75pt x 301.125pt>
 File: img/circular_genome_node8_annotated.png Graphic file (type png)
 
 <use img/circular_genome_node8_annotated.png>
@@ -1920,9 +1920,9 @@ e1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 s/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1000
 .pfb>
 Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (21 pag
-es, 1380260 bytes).
+es, 1380228 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
+ 393 PDF objects out of 1000 (max. 8388607)
  105 named destinations out of 1000 (max. 500000)
  44 words of extra memory for PDF output out of 10000 (max. 10000000)
 
