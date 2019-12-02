@@ -220,4 +220,15 @@ D.~Arndt, J.~R. Grant, A.~Marcu, T.~Sajed, A.~Pon, Y.~Liang, and D.~S. Wishart,
   ``{PHASTER}: a better, faster version of the {PHAST} phage search tool,''
   {\em Nucleic Acids Research}, vol.~44, pp.~W16--W21, July 2016.
 
+\bibitem{kaas_estimating_2012}
+R.~S. Kaas, C.~Friis, D.~W. Ussery, and F.~M. Aarestrup, ``Estimating variation
+  within the genes and inferring the phylogeny of 186 sequenced diverse
+  {Escherichia} coli genomes,'' {\em BMC Genomics}, vol.~13, no.~1, p.~577,
+  2012.
+
+\bibitem{inglin_clustering_2018}
+R.~C. Inglin, L.~Meile, and M.~J.~A. Stevens, ``Clustering of {Pan}- and
+  {Core}-genome of {Lactobacillus} provides {Novel} {Evolutionary} {Insights}
+  for {Differentiation},'' {\em BMC Genomics}, vol.~19, p.~284, Dec. 2018.
+
 \end{thebibliography}
