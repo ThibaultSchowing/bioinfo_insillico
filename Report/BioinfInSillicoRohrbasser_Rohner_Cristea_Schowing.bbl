@@ -4,10 +4,6 @@
 D.~Botstein, S.~A. Chervitz, and J.~M. Cherry, ``Yeast as a {Model}
   {Organism},'' p.~4, 2011.
 
-\bibitem{belda_saccharomyces_2019}
-I.~Belda, J.~Ruiz, A.~Santos, N.~Van~Wyk, and I.~S. Pretorius, ``Saccharomyces
-  cerevisiae,'' {\em Trends in Genetics}, p.~S0168952519301829, Oct. 2019.
-
 \bibitem{utsugi_yeast_1999}
 T.~Utsugi, A.~Hirata, Y.~Sekiguchi, T.~Sasaki, A.~Toh-e, and Y.~Kikuchi,
   ``Yeast tom1 mutant exhibits pleiotropic defects in nuclear division,
@@ -41,15 +37,6 @@ T.~Utsugi, A.~Toh-e, and Y.~Kikuchi, ``A high dose of the {STM}1 gene
 T.~Sasaki, A.~Toh-e, and Y.~Kikuchi, ``Extragenic suppressors that rescue
   defects in the heat stress response of the budding yeast mutant tom1,'' {\em
   MGG - Molecular and General Genetics}, vol.~262, pp.~940--948, Jan. 2000.
-
-\bibitem{abnizova_computational_2017}
-I.~Abnizova, R.~t. Boekhorst, and Y.~L. Orlov, ``Computational {Errors} and
-  {Biases} in {Short} {Read} {Next} {Generation} {Sequencing},'' {\em Journal
-  of Proteomics \& Bioinformatics}, vol.~10, no.~1, 2017.
-
-\bibitem{andrews2012}
-S.~Andrews, F.~Krueger, A.~{Segonds-Pichon}, L.~Biggins, C.~Krueger, and
-  S.~Wingett, ``{{FastQC}}.'' Babraham Institute, Jan. 2012.
 
 \bibitem{bolger_trimmomatic:_2014}
 A.~M. Bolger, M.~Lohse, and B.~Usadel, ``Trimmomatic: a flexible trimmer for
@@ -141,25 +128,61 @@ M.~Takeuchi, Y.~Kimata, and K.~Kohno, ``Saccharomyces cerevisiae {Rot}1 {Is} an
   {Essential} {Molecular} {Chaperone} in the {Endoplasmic} {Reticulum},'' {\em
   Molecular Biology of the Cell}, vol.~19, pp.~3514--3525, Aug. 2008.
 
+\bibitem{hooley_gibberellins:_nodate}
+R.~Hooley, ``Gibberellins: perception, transduction and responses,'' p.~27.
+
+\bibitem{ordonio_new_2017}
+R.~L. Ordonio and M.~Matsuoka, ``New path towards a better rice architecture,''
+  {\em Cell Research}, vol.~27, pp.~1189--1190, Oct. 2017.
+
 \bibitem{peng_arabidopsis_1997}
 J.~Peng, P.~Carol, D.~E. Richards, K.~E. King, R.~J. Cowling, G.~P. Murphy, and
   N.~P. Harberd, ``The {Arabidopsis} {GAI} gene defines a signaling pathway
   that negatively regulates gibberellin responses,'' {\em Genes \&
   Development}, vol.~11, pp.~3194--3205, Dec. 1997.
 
-\bibitem{hooley_gibberellins:_nodate}
-R.~Hooley, ``Gibberellins: perception, transduction and responses,'' p.~27.
+\bibitem{hauvermale_gibberellin_2012}
+A.~L. Hauvermale, T.~Ariizumi, and C.~M. Steber, ``Gibberellin {Signaling}: {A}
+  {Theme} and {Variations} on {DELLA} {Repression},'' {\em Plant Physiology},
+  vol.~160, pp.~83--92, Sept. 2012.
 
 \bibitem{lee_gibberellin_2002}
 S.~Lee, ``Gibberellin regulates {Arabidopsis} seed germination via {RGL}2, a
   {GAI}/{RGA}-like gene whose expression is up-regulated following
   imbibition,'' {\em Genes \& Development}, vol.~16, pp.~646--658, Mar. 2002.
 
+\bibitem{zentella_arabidopsis_2017}
+R.~Zentella, N.~Sui, B.~Barnhill, W.-P. Hsieh, J.~Hu, J.~Shabanowitz, M.~Boyce,
+  N.~E. Olszewski, P.~Zhou, D.~F. Hunt, and T.-p. Sun, ``The {Arabidopsis}
+  {O}-fucosyltransferase {SPINDLY} activates nuclear growth repressor
+  {DELLA},'' {\em Nature Chemical Biology}, vol.~13, pp.~479--485, May 2017.
+
+\bibitem{andrews2012}
+S.~Andrews, F.~Krueger, A.~{Segonds-Pichon}, L.~Biggins, C.~Krueger, and
+  S.~Wingett, ``{{FastQC}}.'' Babraham Institute, Jan. 2012.
+
+\bibitem{delcour_biosynthesis_1999}
+J.~Delcour, T.~Ferain, M.~Deghorain, E.~Palumbo, and P.~Hols, ``The
+  biosynthesis and functionality of the cell-wall of lactic acid bacteria,''
+  {\em Antonie Van Leeuwenhoek}, vol.~76, pp.~159--184, Nov. 1999.
+
 \bibitem{jebava_nine_2011}
 I.~Jebava, M.~Plockova, S.~Lortal, and F.~Valence, ``The nine peptidoglycan
   hydrolases genes in {Lactobacillus} helveticus are ubiquitous and early
   transcribed,'' {\em International Journal of Food Microbiology}, vol.~148,
   pp.~1--7, July 2011.
+
+\bibitem{hutchison_assembling_2013}
+S.~Nurk, A.~Bankevich, D.~Antipov, A.~Gurevich, A.~Korobeynikov, A.~Lapidus,
+  A.~Prjibelsky, A.~Pyshkin, A.~Sirotkin, Y.~Sirotkin, R.~Stepanauskas,
+  J.~McLean, R.~Lasken, S.~R. Clingenpeel, T.~Woyke, G.~Tesler, M.~A.
+  Alekseyev, and P.~A. Pevzner, ``Assembling {Genomes} and {Mini}-metagenomes
+  from {Highly} {Chimeric} {Reads},'' in {\em Research in {Computational}
+  {Molecular} {Biology}} (D.~Hutchison, T.~Kanade, J.~Kittler, J.~M. Kleinberg,
+  F.~Mattern, J.~C. Mitchell, M.~Naor, O.~Nierstrasz, C.~Pandu~Rangan,
+  B.~Steffen, M.~Sudan, D.~Terzopoulos, D.~Tygar, M.~Y. Vardi, G.~Weikum,
+  M.~Deng, R.~Jiang, F.~Sun, and X.~Zhang, eds.), vol.~7821, pp.~158--170,
+  Berlin, Heidelberg: Springer Berlin Heidelberg, 2013.
 
 \bibitem{seemann_prokka:_2014}
 T.~Seemann, ``Prokka: rapid prokaryotic genome annotation,'' {\em
