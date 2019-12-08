@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.23)  8 DEC 2019 12:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.23)  8 DEC 2019 14:31
 entering extended mode
 **./BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.tex
@@ -1073,7 +1073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
-<img/GAI_SPY_Introcut.png, id=127, 710.655pt x 450.68375pt>
+<img/GAI_SPY_Introcut.png, id=128, 710.655pt x 450.68375pt>
 File: img/GAI_SPY_Introcut.png Graphic file (type png)
 <use img/GAI_SPY_Introcut.png>
 Package pdftex.def Info: img/GAI_SPY_Introcut.png  used on input line 226.
@@ -1083,468 +1083,468 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [5]
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
-60.
+63.
  ("C:\Users\thsch\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 260.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 263.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
 [6 <./img/GAI_SPY_Introcut.png>]
-<img/DELLAdomains.png, id=181, 706.89093pt x 380.92313pt>
+<img/DELLAdomains.png, id=185, 706.89093pt x 380.92313pt>
 File: img/DELLAdomains.png Graphic file (type png)
 <use img/DELLAdomains.png>
-Package pdftex.def Info: img/DELLAdomains.png  used on input line 280.
+Package pdftex.def Info: img/DELLAdomains.png  used on input line 283.
 (pdftex.def)             Requested size: 297.20906pt x 160.15517pt.
- [7 <./img/DELLAdomains.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 300--303
+ [7 <./img/DELLAdomains.png>] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 303--306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
 
  []
 
 
-Overfull \hbox (4.9091pt too wide) in paragraph at lines 315--316
+Overfull \hbox (4.9091pt too wide) in paragraph at lines 318--319
  []\OT1/cmr/bx/n/10 Sequencing and genome as-sem-bly[] \OT1/cmr/m/n/10 The six 
 \OT1/cmr/m/it/10 L. hel-veti-cus \OT1/cmr/m/n/10 strains \OT1/cmr/bx/n/10 FAM81
 02c1c1\OT1/cmr/m/n/10 , \OT1/cmr/bx/n/10 FAM23285\OT1/cmr/m/n/10 ,
  []
 
-[8]
-<img/zymography.png, id=230, 541.02126pt x 368.87813pt>
+[9]
+<img/zymography.png, id=240, 541.02126pt x 368.87813pt>
 File: img/zymography.png Graphic file (type png)
 <use img/zymography.png>
-Package pdftex.def Info: img/zymography.png  used on input line 331.
+Package pdftex.def Info: img/zymography.png  used on input line 334.
 (pdftex.def)             Requested size: 297.20906pt x 202.64719pt.
 
-Underfull \hbox (badness 1708) in paragraph at lines 352--352
+Underfull \hbox (badness 1708) in paragraph at lines 355--355
 []|\OT1/cmr/bx/n/10 Avg group
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/bx/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 Lhv[]2053
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 Lysin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 (L.crispatus)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 pseu-do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 gene in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 Lhv[]2053
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 Lysin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 (L.crispatus)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 pseu-do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/m/n/10 gene in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--360
+Underfull \hbox (badness 10000) in paragraph at lines 360--363
 
  []
 
-[9 <./img/zymography.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
+[10 <./img/zymography.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
 
  []
 
-<img/fasterfasterfucker.jpeg, id=250, 2055.68pt x 1193.45876pt>
+<img/fasterfasterfucker.jpeg, id=260, 2055.68pt x 1193.45876pt>
 File: img/fasterfasterfucker.jpeg Graphic file (type jpg)
 <use img/fasterfasterfucker.jpeg>
-Package pdftex.def Info: img/fasterfasterfucker.jpeg  used on input line 387.
+Package pdftex.def Info: img/fasterfasterfucker.jpeg  used on input line 390.
 (pdftex.def)             Requested size: 297.20906pt x 172.5463pt.
-[10 <./img/fasterfasterfucker.jpeg>]
+[11 <./img/fasterfasterfucker.jpeg>]
 (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.bbl
 Underfull \hbox (badness 7540) in paragraph at lines 52--56
 \OT1/cmr/m/n/10 G. Abeca-sis, R. Durbin, and 1000
  []
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 176--186
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 180--190
 \OT1/cmr/m/n/10 Pevzner, ``As-sem-bling Genomes and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--186
+Underfull \hbox (badness 10000) in paragraph at lines 180--190
 \OT1/cmr/m/it/10 Molec-u-lar Bi-ol-ogy \OT1/cmr/m/n/10 (D. Hutchi-son,
  []
 
-[12]) [13]
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+[13]) [14]
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1213[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM1450[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM19191[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM22076[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM23285[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []|\OT1/cmr/m/n/10 FAM8102[]
  []
 
@@ -1552,29 +1552,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.439 ... and labeled "Lhv\_" by \textit{PROKKA}.}
+l.442 ... and labeled "Lhv\_" by \textit{PROKKA}.}
                                                   
 
-LaTeX Warning: Float too large for page by 15.30286pt on input line 441.
+LaTeX Warning: Float too large for page by 15.30286pt on input line 444.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 447.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 447.
+[15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 450.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 450.
  (BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 447.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 447.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 450.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 450.
 Package rerunfilecheck Info: File `BioinfInSillicoRohrbasser_Rohner_Cristea_Sch
 owing.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13692 strings out of 492450
- 194471 string characters out of 3120004
- 294464 words of memory out of 3000000
- 17751 multiletter control sequences out of 15000+200000
+ 13697 strings out of 492450
+ 194580 string characters out of 3120004
+ 294556 words of memory out of 3000000
+ 17753 multiletter control sequences out of 15000+200000
  15100 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,17n,45p,2720b,542s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1599,10 +1599,10 @@ ic/amsfonts/cm/cmsy7.pfb><C:/Users/thsch/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/thsch/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/thsch/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1000.pfb>
-Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (14 pag
-es, 1462621 bytes).
+Output written on BioinfInSillicoRohrbasser_Rohner_Cristea_Schowing.pdf (15 pag
+es, 1464596 bytes).
 PDF statistics:
- 362 PDF objects out of 1000 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
+ 372 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

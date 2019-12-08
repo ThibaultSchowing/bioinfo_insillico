@@ -157,6 +157,10 @@ R.~Zentella, N.~Sui, B.~Barnhill, W.-P. Hsieh, J.~Hu, J.~Shabanowitz, M.~Boyce,
   {O}-fucosyltransferase {SPINDLY} activates nuclear growth repressor
   {DELLA},'' {\em Nature Chemical Biology}, vol.~13, pp.~479--485, May 2017.
 
+\bibitem{jacobsen_mutations_nodate}
+S.~E. Jacobsen and N.~E. Olszewski’, ``Mutations at the {SPINDLY} {Locus} of
+  {Arabidopsis} {Alter} {Gibberellin} {Signal} {Transduction},'' p.~10.
+
 \bibitem{andrews2012}
 S.~Andrews, F.~Krueger, A.~{Segonds-Pichon}, L.~Biggins, C.~Krueger, and
   S.~Wingett, ``{{FastQC}}.'' Babraham Institute, Jan. 2012.
@@ -183,6 +187,11 @@ S.~Nurk, A.~Bankevich, D.~Antipov, A.~Gurevich, A.~Korobeynikov, A.~Lapidus,
   B.~Steffen, M.~Sudan, D.~Terzopoulos, D.~Tygar, M.~Y. Vardi, G.~Weikum,
   M.~Deng, R.~Jiang, F.~Sun, and X.~Zhang, eds.), vol.~7821, pp.~158--170,
   Berlin, Heidelberg: Springer Berlin Heidelberg, 2013.
+
+\bibitem{simpson_abyss:_2009}
+J.~T. Simpson, K.~Wong, S.~D. Jackman, J.~E. Schein, S.~J. Jones, and I.~Birol,
+  ``{ABySS}: {A} parallel assembler for short read sequence data,'' {\em Genome
+  Research}, vol.~19, pp.~1117--1123, June 2009.
 
 \bibitem{seemann_prokka:_2014}
 T.~Seemann, ``Prokka: rapid prokaryotic genome annotation,'' {\em
